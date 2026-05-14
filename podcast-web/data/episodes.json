@@ -1,0 +1,4150 @@
+{
+  "filosofia": [
+    {
+      "number": 1,
+      "title": "Tales: el hombre que cambió la historia del pensamiento",
+      "folder": "Filosofia/001 Tales: el hombre que cambió la historia del pensamiento",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 2,
+      "title": "El mito de la caverna",
+      "folder": "Filosofia/002 El mito de la caverna",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 3,
+      "title": "El Contrato social de Rousseau",
+      "folder": "Filosofia/003 El Contrato social de Rousseau",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 4,
+      "title": "Gramsci y la hegemonia cultural",
+      "folder": "Filosofia/004 Gramsci y la hegemonia cultural",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 5,
+      "title": "Piscopolítica: El poder invisible",
+      "folder": "Filosofia/005 Piscopolítica: El poder invisible",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": false,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 6,
+      "title": "Nietzche y la muerte de Dios",
+      "folder": "Filosofia/006 - Nietzche y la muerte de Dios",
+      "publishDate": "2026-01-07",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 7,
+      "title": "Vigilar y castigar",
+      "folder": "Filosofia/007 - Vigilar y castigar",
+      "publishDate": "2026-01-14",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 8,
+      "title": "Heidegger-Que significar realmente set",
+      "folder": "Filosofia/008 - Heidegger-Que significar realmente set",
+      "publishDate": "2026-01-21",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 9,
+      "title": "Camus y el mito de Sisifo",
+      "folder": "Filosofia/009 - Camus y el mito de Sisifo",
+      "publishDate": "2026-01-28",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 10,
+      "title": "Sartre y el existencialismo",
+      "folder": "Filosofia/010 - Sartre y el existencialismo",
+      "publishDate": "2026-02-04",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 11,
+      "title": "Schopenhauer y el Libre Albedrío",
+      "folder": "Filosofia/011 - Schopenhauer y el Libre Albedrío",
+      "publishDate": "2026-02-11",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": false,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 12,
+      "title": "Etica de la tecnologia",
+      "folder": "Filosofia/012 - Etica de la tecnologia",
+      "publishDate": "2026-02-18",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 13,
+      "title": "La paradoja de la tolerancia - Popper",
+      "folder": "Filosofia/013 - La paradoja de la tolerancia - Popper",
+      "publishDate": "2026-02-25",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 14,
+      "title": "Descartes y la duda que fundo la ciencia moderna",
+      "folder": "Filosofia/014 - Descartes y la duda que fundo la ciencia moderna",
+      "publishDate": "2026-03-04",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 15,
+      "title": "Kant y la libertad",
+      "folder": "Filosofia/015 - Kant y la libertad ",
+      "publishDate": "2026-03-11",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 16,
+      "title": "Aristoteles y la busqueda de la felicidad",
+      "folder": "Filosofia/016 - Aristoteles y la busqueda de la felicidad",
+      "publishDate": "2026-03-18",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 17,
+      "title": "La escuela de Frankfurt",
+      "folder": "Filosofia/017 - La escuela de Frankfurt",
+      "publishDate": "2026-03-25",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 18,
+      "title": "Spinoza - El filosofo que quiso liberar a dios",
+      "folder": "Filosofia/018 - Spinoza - El filosofo que quiso liberar a dios",
+      "publishDate": "2026-04-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 19,
+      "title": "Epicuro y por qué el placer moderado es la clave de la tranquilidad.",
+      "folder": "Filosofia/019 - Epicuro y por qué el placer moderado es la clave de la tranquilidad.",
+      "publishDate": "2026-04-08",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 20,
+      "title": "Heráclito: todo fluye, nada permanece.",
+      "folder": "Filosofia/020 - Heráclito: todo fluye, nada permanece.",
+      "publishDate": "2026-04-15",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 21,
+      "title": "Simone de Beauvoir: nacer mujer no es destino.",
+      "folder": "Filosofia/021 - Simone de Beauvoir: nacer mujer no es destino.",
+      "publishDate": "2026-04-22",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 22,
+      "title": "Kierkegaard: el salto de fe y la angustia de elegir.",
+      "folder": "Filosofia/022 - Kierkegaard: el salto de fe y la angustia de elegir.",
+      "publishDate": "2026-04-29",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": true
+    },
+    {
+      "number": 23,
+      "title": "Epicteto: cómo dejar de sufrir por todo (estoicismo aplicado hoy)",
+      "folder": "Filosofia/023 - Epicteto: cómo dejar de sufrir por todo (estoicismo aplicado hoy)",
+      "publishDate": "2026-05-06",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 24,
+      "title": "Marco Aurelio: la filosofía para no volverte loco con la vida moderna",
+      "folder": "Filosofia/024 - Marco Aurelio: la filosofía para no volverte loco con la vida moderna",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": true
+    },
+    {
+      "number": 25,
+      "title": "David Hume: por qué el yo que creés ser… no existe",
+      "folder": "Filosofia/025 - David Hume: por qué el yo que creés ser… no existe",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": false
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 26,
+      "title": "Spinoza: ¿tenés libre albedrío o todo ya está determinado?",
+      "folder": "Filosofia/026 - Spinoza: ¿tenés libre albedrío o todo ya está determinado?",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 27,
+      "title": "Jeremy Bentham: por qué la felicidad nunca alcanza",
+      "folder": "Filosofia/027 - Jeremy Bentham: por qué la felicidad nunca alcanza",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 28,
+      "title": "John Searle: por qué la inteligencia artificial no entiende nada",
+      "folder": "Filosofia/028 - John Searle: por qué la inteligencia artificial no entiende nada",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 29,
+      "title": "Nietzsche: por qué el bien y el mal no existen",
+      "folder": "Filosofia/029 - Nietzsche: por qué el bien y el mal no existen",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 30,
+      "title": "John Locke: la idea que dio origen a la propiedad privada",
+      "folder": "Filosofia/030 - John Locke: la idea que dio origen a la propiedad privada",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 31,
+      "title": "Paul Feyerabend: por qué no existe el método científico",
+      "folder": "Filosofia/031 - Paul Feyerabend: por qué no existe el método científico",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 32,
+      "title": "Hannah Arendt: cómo gente normal puede hacer cosas terribles",
+      "folder": "Filosofia/032 - Hannah Arendt: cómo gente normal puede hacer cosas terribles",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 33,
+      "title": "Ludwig Wittgenstein: los límites de tu lenguaje son los de tu mundo",
+      "folder": "Filosofia/033 - Ludwig Wittgenstein: los límites de tu lenguaje son los de tu mundo",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 34,
+      "title": "Platón y el amor: por qué nunca amamos a una persona, sino a una idea",
+      "folder": "Filosofia/034 - Platón y el amor: por qué nunca amamos a una persona, sino a una idea",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 35,
+      "title": "Maquiavelo: ¿es realmente tan malo que el fin justifique los medios?",
+      "folder": "Filosofia/035 - Maquiavelo: ¿es realmente tan malo que el fin justifique los medios?",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 36,
+      "title": "Sócrates y la mayéutica: el arte de hacerte preguntas que te incomodan",
+      "folder": "Filosofia/036 - Sócrates y la mayéutica: el arte de hacerte preguntas que te incomodan",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 37,
+      "title": "Bertrand Russell: por qué creer sin evidencia es el mayor peligro del mundo",
+      "folder": "Filosofia/037 - Bertrand Russell: por qué creer sin evidencia es el mayor peligro del mundo",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 38,
+      "title": "Simone Weil: la atención como forma suprema de amor",
+      "folder": "Filosofia/038 - Simone Weil: la atención como forma suprema de amor",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 39,
+      "title": "Diógenes el Cínico: el filósofo que vivía en un barril y le dijo que no a Alejandro Magno",
+      "folder": "Filosofia/039 - Diógenes el Cínico: el filósofo que vivía en un barril y le dijo que no a Alejandro Magno",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 40,
+      "title": "Peter Singer: si podés salvar una vida y no lo hacés, ¿sos responsable de su muerte?",
+      "folder": "Filosofia/040 - Peter Singer: si podés salvar una vida y no lo hacés, ¿sos responsable de su muerte?",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    }
+  ],
+  "historia": [
+    {
+      "number": 1,
+      "title": "Revolucion Francesa",
+      "folder": "Historia/001 Revolucion Francesa",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 2,
+      "title": "Imperio austrohungaro",
+      "folder": "Historia/002 Imperio austrohungaro",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 3,
+      "title": "Servicio Postal",
+      "folder": "Historia/003 Servicio Postal",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 4,
+      "title": "Invasiones Inglesas",
+      "folder": "Historia/004 Invasiones Inglesas",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 5,
+      "title": "Vikingos",
+      "folder": "Historia/005 Vikingos",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 6,
+      "title": "Canal de Panama",
+      "folder": "Historia/006 Canal de Panama",
+      "publishDate": "2026-01-07",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 7,
+      "title": "El Renacimiento en Florencia",
+      "folder": "Historia/007 El Renacimiento en Florencia",
+      "publishDate": "2026-01-14",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 8,
+      "title": "Alejangro Magno",
+      "folder": "Historia/008 - Alejangro Magno",
+      "publishDate": "2026-01-21",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 9,
+      "title": "La guerra de Vietnam",
+      "folder": "Historia/009 - La guerra de Vietnam",
+      "publishDate": "2026-01-28",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 10,
+      "title": "La caida de Constantinopla",
+      "folder": "Historia/010 - La caida de Constantinopla",
+      "publishDate": "2026-02-04",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 11,
+      "title": "Los Borgia",
+      "folder": "Historia/011 - Los Borgia",
+      "publishDate": "2026-02-11",
+      "published": true,
+      "content": {
+        "script": false,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 12,
+      "title": "El Cumpleaños",
+      "folder": "Historia/012 - El Cumpleaños",
+      "publishDate": "2026-02-18",
+      "published": true,
+      "content": {
+        "script": false,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 13,
+      "title": "El Feudalismo",
+      "folder": "Historia/013 - El Feudalismo",
+      "publishDate": "2026-02-25",
+      "published": true,
+      "content": {
+        "script": false,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": false,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 14,
+      "title": "La revolucion industrial",
+      "folder": "Historia/014 - La revolucion industrial",
+      "publishDate": "2026-03-04",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 15,
+      "title": "El Imperio Otomano",
+      "folder": "Historia/015 - El Imperio Otomano",
+      "publishDate": "2026-03-11",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 16,
+      "title": "La independencia de Estados Unidos",
+      "folder": "Historia/016 - La independencia de Estados Unidos",
+      "publishDate": "2026-03-18",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 17,
+      "title": "La unificacion de Italia",
+      "folder": "Historia/017 - La unificacion de Italia",
+      "publishDate": "2026-03-25",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 18,
+      "title": "El Imperio Persa",
+      "folder": "Historia/018 - El Imperio Persa",
+      "publishDate": "2026-04-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": false,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 19,
+      "title": "El Antiguo Egipto",
+      "folder": "Historia/019 - El Antiguo Egipto",
+      "publishDate": "2026-04-08",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 20,
+      "title": "El Imperio Inca",
+      "folder": "Historia/020 - El Imperio Inca",
+      "publishDate": "2026-04-15",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": [
+          "en"
+        ]
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 21,
+      "title": "Las Cruzadas",
+      "folder": "Historia/021 - Las Cruzadas",
+      "publishDate": "2026-04-22",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 22,
+      "title": "La guerra Fria",
+      "folder": "Historia/022 - La guerra Fria",
+      "publishDate": "2026-04-29",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 23,
+      "title": "El nacimiento de ciudades",
+      "folder": "Historia/023 - El nacimiento de ciudades",
+      "publishDate": "2026-05-06",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 24,
+      "title": "La Torre Eiffel",
+      "folder": "Historia/024 - La Torre Eiffel",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": true
+    },
+    {
+      "number": 25,
+      "title": "El Imperio Bizantino",
+      "folder": "Historia/025 - El Imperio Bizantino",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 26,
+      "title": "La Comuna de Paris",
+      "folder": "Historia/026 - La Comuna de Paris",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 27,
+      "title": "La carrera Espacial",
+      "folder": "Historia/027 - La carrera Espacial",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 28,
+      "title": "El Sacro Imperio Romano Germanico",
+      "folder": "Historia/028 - El Sacro Imperio Romano Germanico",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 29,
+      "title": "La Democracia",
+      "folder": "Historia/029 - La Democracia",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 30,
+      "title": "La China Imperial",
+      "folder": "Historia/030 - La China Imperial",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 31,
+      "title": "El Imperio Mongol",
+      "folder": "Historia/031 - El Imperio Mongol",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 32,
+      "title": "El Calendario",
+      "folder": "Historia/032 - El Calendario",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 33,
+      "title": "La Primera Guerra Mundial",
+      "folder": "Historia/033 - La Primera Guerra Mundial",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 34,
+      "title": "La segunda Guerra Mundial",
+      "folder": "Historia/034 - La segunda Guerra Mundial",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 35,
+      "title": "El Mayo Francés de 1968",
+      "folder": "Historia/035 - El Mayo Francés de 1968",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 36,
+      "title": "La Revolución Cubana",
+      "folder": "Historia/036 - La Revolución Cubana",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 37,
+      "title": "El Apartheid en Sudáfrica",
+      "folder": "Historia/037 - El Apartheid en Sudáfrica",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    }
+  ],
+  "libros": [
+    {
+      "number": 1,
+      "title": "Habitos Atomicos",
+      "folder": "Libros/001 Habitos Atomicos",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 2,
+      "title": "Como tener mejors conversaciones",
+      "folder": "Libros/002 Como tener mejors conversaciones",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": false,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 3,
+      "title": "La rebelión de Atlas",
+      "folder": "Libros/003 La rebelión de Atlas",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 4,
+      "title": "De Cero a Uno",
+      "folder": "Libros/004 De Cero a Uno",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 5,
+      "title": "El Cisne Negro - Taleb",
+      "folder": "Libros/005 El Cisne Negro - Taleb",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 6,
+      "title": "La Republica - Platon",
+      "folder": "Libros/006 La Republica - Platon",
+      "publishDate": "2026-01-07",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 7,
+      "title": "El Espejismo de Dios - Richard Dawkins",
+      "folder": "Libros/007 El Espejismo de Dios - Richard Dawkins",
+      "publishDate": "2026-01-14",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 8,
+      "title": "Rayuela - Julio Cortazar",
+      "folder": "Libros/008 - Rayuela - Julio Cortazar",
+      "publishDate": "2026-01-21",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 9,
+      "title": "Pensar rapido, pensar despacio - Daniel Kahneman",
+      "folder": "Libros/009 - Pensar rapido, pensar despacio - Daniel Kahneman",
+      "publishDate": "2026-01-28",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 10,
+      "title": "El monje que vendio su ferrari - Robin Sharma",
+      "folder": "Libros/010 - El monje que vendio su ferrari - Robin Sharma",
+      "publishDate": "2026-02-04",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 11,
+      "title": "El Diario de Ana Frank",
+      "folder": "Libros/011 - El Diario de Ana Frank",
+      "publishDate": "2026-02-11",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 12,
+      "title": "Breve Historia del tiempo",
+      "folder": "Libros/012 - Breve Historia del tiempo",
+      "publishDate": "2026-02-18",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 13,
+      "title": "Freakonomics",
+      "folder": "Libros/013 - Freakonomics ",
+      "publishDate": "2026-02-25",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 14,
+      "title": "1984",
+      "folder": "Libros/014 - 1984",
+      "publishDate": "2026-03-04",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 15,
+      "title": "Cosmos",
+      "folder": "Libros/015 - Cosmos",
+      "publishDate": "2026-03-11",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 16,
+      "title": "El Alquimista",
+      "folder": "Libros/016 - El Alquimista",
+      "publishDate": "2026-03-18",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 17,
+      "title": "Antifragil",
+      "folder": "Libros/017 - Antifragil",
+      "publishDate": "2026-03-25",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 18,
+      "title": "Padre rico Padre pobre",
+      "folder": "Libros/018 - Padre rico Padre pobre",
+      "publishDate": "2026-04-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 19,
+      "title": "Trabajo",
+      "folder": "Libros/019 - Trabajo",
+      "publishDate": "2026-04-08",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 20,
+      "title": "El Principoe",
+      "folder": "Libros/020 - El Principoe",
+      "publishDate": "2026-04-15",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 21,
+      "title": "El mundo y sus demonios",
+      "folder": "Libros/021 - El mundo y sus demonios",
+      "publishDate": "2026-04-22",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 22,
+      "title": "Los 7 habitos de la gente altamente efectiva",
+      "folder": "Libros/022 - Los 7 habitos de la gente altamente efectiva",
+      "publishDate": "2026-04-29",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 23,
+      "title": "La Riqueza de las naciones - Adam Smith",
+      "folder": "Libros/023 - La Riqueza de las naciones - Adam Smith",
+      "publishDate": "2026-05-06",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 24,
+      "title": "El Poder del Ahora - Eckart Tolle",
+      "folder": "Libros/024 - El Poder del Ahora - Eckart Tolle",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": true
+    },
+    {
+      "number": 25,
+      "title": "El Lobo Estepario - Hermann Hesse",
+      "folder": "Libros/025 - El Lobo Estepario - Hermann Hesse",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 26,
+      "title": "Never Split the Difference - Chris Voss",
+      "folder": "Libros/026 - Never Split the Difference - Chris Voss",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 27,
+      "title": "El arte de la guerra - Sun Tzu",
+      "folder": "Libros/027 - El arte de la guerra - Sun Tzu",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 28,
+      "title": "La metamorfosis - Kafka",
+      "folder": "Libros/028 - La metamorfosis - Kafka",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 29,
+      "title": "Crimen y Castigo - Dostievski",
+      "folder": "Libros/029 - Crimen y Castigo - Dostievski",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 30,
+      "title": "Start with Why - Simon Sinek",
+      "folder": "Libros/030 - Start with Why - Simon Sinek",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 31,
+      "title": "Crimen y Castigo - Dostievski",
+      "folder": "Libros/031 - Crimen y Castigo - Dostievski",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 32,
+      "title": "El hombre en busca de sentido - Viktor Frankl",
+      "folder": "Libros/032 - El hombre en busca de sentido - Viktor Frankl",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 33,
+      "title": "Meditaciones - Marco Aurelio",
+      "folder": "Libros/033 - Meditaciones - Marco Aurelio",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 34,
+      "title": "Thinking in Bets - Annie Duke",
+      "folder": "Libros/034 - Thinking in Bets - Annie Duke",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 35,
+      "title": "Thinking in Systems - Donella Meadows",
+      "folder": "Libros/035 - Thinking in Systems - Donella Meadows",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 36,
+      "title": "Enlightenment Now - Steven Pinker",
+      "folder": "Libros/036 - Enlightenment Now - Steven Pinker",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 37,
+      "title": "Predictably Irrational - Dan Ariely",
+      "folder": "Libros/037 - Predictably Irrational - Dan Ariely",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 38,
+      "title": "Poor Charlie's Almanack - Charlie Munger",
+      "folder": "Libros/038 - Poor Charlie's Almanack - Charlie Munger",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 39,
+      "title": "Business Model Generation - Alex Osterwalder",
+      "folder": "Libros/039 - Business Model Generation - Alex Osterwalder",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 40,
+      "title": "Good to Great - Jim Collins",
+      "folder": "Libros/040 - Good to Great - Jim Collins",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 41,
+      "title": "The Lean Startup - Eric Ries",
+      "folder": "Libros/041 - The Lean Startup - Eric Ries",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 42,
+      "title": "The Hard Thing About Hard Things - Ben Horowitz",
+      "folder": "Libros/042 - The Hard Thing About Hard Things - Ben Horowitz",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 43,
+      "title": "The Mom Test - Rob Fitzpatrick",
+      "folder": "Libros/043 - The Mom Test - Rob Fitzpatrick",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 44,
+      "title": "Influence - Robert Cialdini",
+      "folder": "Libros/044 - Influence - Robert Cialdini",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 45,
+      "title": "Deep Work - Cal Newport",
+      "folder": "Libros/045 - Deep Work - Cal Newport",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 46,
+      "title": "Essentialism - Greg McKeown",
+      "folder": "Libros/046 - Essentialism - Greg McKeown",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 47,
+      "title": "The War of Art - Steven Pressfield",
+      "folder": "Libros/047 - The War of Art - Steven Pressfield",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 48,
+      "title": "Extreme Ownership - Jocko Willink",
+      "folder": "Libros/048 - Extreme Ownership - Jocko Willink",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 49,
+      "title": "Ego is the Enemy - Ryan Holiday",
+      "folder": "Libros/049 - Ego is the Enemy - Ryan Holiday",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 50,
+      "title": "Can't Hurt Me - David Goggins",
+      "folder": "Libros/050 - Can't Hurt Me - David Goggins",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 51,
+      "title": "The Psychology of Money - Morgan Housel",
+      "folder": "Libros/051 - The Psychology of Money - Morgan Housel",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 52,
+      "title": "El extranjero - Albert Camus",
+      "folder": "Libros/052 - El extranjero - Albert Camus",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 53,
+      "title": "Un mundo feliz - Aldous Huxley",
+      "folder": "Libros/053 - Un mundo feliz - Aldous Huxley",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 54,
+      "title": "Sapiens - Yuval Noah Harari",
+      "folder": "Libros/054 - Sapiens - Yuval Noah Harari",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    }
+  ],
+  "mitologia": [
+    {
+      "number": 1,
+      "title": "Caos",
+      "folder": "Mitologia/001 Caos",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 2,
+      "title": "Titanes y reinado de Cronos",
+      "folder": "Mitologia/002 Titanes y reinado de Cronos",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 3,
+      "title": "Gigantomaquia",
+      "folder": "Mitologia/003 Gigantomaquia",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 4,
+      "title": "Los doce dioses Olimpicos",
+      "folder": "Mitologia/004 Los doce dioses Olimpicos",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 5,
+      "title": "Prometeo",
+      "folder": "Mitologia/005 Prometeo",
+      "publishDate": "2026-01-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 6,
+      "title": "Las cinco edades de la Humanidad",
+      "folder": "Mitologia/006 Las cinco edades de la Humanidad",
+      "publishDate": "2026-01-07",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 7,
+      "title": "El Diluvio de Deucalión",
+      "folder": "Mitologia/007 El Diluvio de Deucalión",
+      "publishDate": "2026-01-14",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 8,
+      "title": "Demeter y Persefone",
+      "folder": "Mitologia/008 - Demeter y Persefone",
+      "publishDate": "2026-01-21",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 9,
+      "title": "Dionisio - El Dios que nacio dos veces",
+      "folder": "Mitologia/009 - Dionisio - El Dios que nacio dos veces",
+      "publishDate": "2026-01-28",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 10,
+      "title": "Afrodita, Ares y el escandalo olimpico",
+      "folder": "Mitologia/010 - Afrodita, Ares y el escandalo olimpico",
+      "publishDate": "2026-02-04",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 11,
+      "title": "Dioses cambian de nombre raw",
+      "folder": "Mitologia/011 Dioses cambian de nombre raw",
+      "publishDate": "2026-02-11",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 12,
+      "title": "Atenea vs Podesidon",
+      "folder": "Mitologia/012 - Atenea vs Podesidon",
+      "publishDate": "2026-02-18",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 13,
+      "title": "Perseo - El primer gran heroe",
+      "folder": "Mitologia/013 - Perseo - El primer gran heroe",
+      "publishDate": "2026-02-25",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": false,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 14,
+      "title": "Belerofonte y Pegaso",
+      "folder": "Mitologia/014 - Belerofonte y Pegaso",
+      "publishDate": "2026-03-04",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 15,
+      "title": "Los doce trabajos de Heracles (Parte 1)",
+      "folder": "Mitologia/015 - Los doce trabajos de Heracles (Parte 1)",
+      "publishDate": "2026-03-11",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 16,
+      "title": "Los doce trabajos de Heracles (Parte 2)",
+      "folder": "Mitologia/016 - Los doce trabajos de Heracles (Parte 2)",
+      "publishDate": "2026-03-18",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 17,
+      "title": "Teseo",
+      "folder": "Mitologia/017 - Teseo",
+      "publishDate": "2026-03-25",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 18,
+      "title": "Jaon y los Argonautas",
+      "folder": "Mitologia/018 - Jaon y los Argonautas",
+      "publishDate": "2026-04-01",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 19,
+      "title": "Orfeo",
+      "folder": "Mitologia/019 -Orfeo",
+      "publishDate": "2026-04-08",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 20,
+      "title": "Edipo",
+      "folder": "Mitologia/020 Edipo",
+      "publishDate": "2026-04-15",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 21,
+      "title": "Guerra de Tebas",
+      "folder": "Mitologia/021 Guerra de Tebas",
+      "publishDate": "2026-04-22",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 22,
+      "title": "Troya 1",
+      "folder": "Mitologia/022 Troya 1",
+      "publishDate": "2026-04-29",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 23,
+      "title": "Troya: La ira de Aquiles (Parte 2)",
+      "folder": "Mitologia/023 Troya: La ira de Aquiles (Parte 2)",
+      "publishDate": "2026-05-06",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": true,
+        "youtube": true
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 24,
+      "title": "Troya: La Ilíada (Parte 3)",
+      "folder": "Mitologia/024 Troya: La Ilíada (Parte 3)",
+      "publishDate": "2026-05-13",
+      "published": true,
+      "content": {
+        "script": true,
+        "blog": true,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": true,
+        "spotify": false,
+        "youtube": true
+      },
+      "audio": {
+        "raw": true,
+        "enhanced": true,
+        "complete": true
+      },
+      "hasVideo": true
+    },
+    {
+      "number": 25,
+      "title": "Odiseo: El viaje de Regreso",
+      "folder": "Mitologia/025 Odiseo: El viaje de Regreso",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 26,
+      "title": "Medea: amor, traición y la venganza más brutal de la mitología",
+      "folder": "Mitologia/026 Medea: amor, traición y la venganza más brutal de la mitología",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 27,
+      "title": "Atalanta: la mujer que corría más rápido que todos (y el truco que la derrotó)",
+      "folder": "Mitologia/027 Atalanta: la mujer que corría más rápido que todos (y el truco que la derrotó)",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 28,
+      "title": "Hipólito y Fedra: deseo prohibido y tragedia familiar",
+      "folder": "Mitologia/028 Hipólito y Fedra: deseo prohibido y tragedia familiar",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 29,
+      "title": "Electra y Orestes: la venganza que destruyó una familia",
+      "folder": "Mitologia/029 Electra y Orestes: la venganza que destruyó una familia",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 30,
+      "title": "El mito de Tántalo: el castigo eterno que dio origen a una palabra",
+      "folder": "Mitologia/030 El mito de Tántalo: el castigo eterno que dio origen a una palabra",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": true,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": true,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 31,
+      "title": "Sísifo: el engañador que burló a la muerte (y pagó el precio)",
+      "folder": "Mitologia/031 Sísifo: el engañador que burló a la muerte (y pagó el precio)",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 32,
+      "title": "Las Erinias: las diosas que persiguen la culpa",
+      "folder": "Mitologia/032 Las Erinias: las diosas que persiguen la culpa",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 33,
+      "title": "El juicio de las almas en el inframundo: qué pasa después de morir",
+      "folder": "Mitologia/033 El juicio de las almas en el inframundo: qué pasa después de morir",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 34,
+      "title": "Hera: la diosa más poderosa… y la más vengativa",
+      "folder": "Mitologia/034 Hera: la diosa más poderosa… y la más vengativa",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 35,
+      "title": "Artemisa: la diosa que no perdonaba errores",
+      "folder": "Mitologia/035 Artemisa: la diosa que no perdonaba errores",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 36,
+      "title": "El nacimiento de los monstruos: de dónde vienen las criaturas míticas",
+      "folder": "Mitologia/036 El nacimiento de los monstruos: de dónde vienen las criaturas míticas",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 37,
+      "title": "El destino y las Moiras: quién decide realmente tu vida",
+      "folder": "Mitologia/037 El destino y las Moiras: quién decide realmente tu vida",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 38,
+      "title": "Los Dioscuros Castor y Pólux",
+      "folder": "Mitologia/038 Los Dioscuros Castor y Pólux",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 39,
+      "title": "El nacimiento de Atenea",
+      "folder": "Mitologia/039 El nacimiento de Atenea",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    },
+    {
+      "number": 40,
+      "title": "Hades y el reino de los muertos",
+      "folder": "Mitologia/040 Hades y el reino de los muertos",
+      "publishDate": null,
+      "published": false,
+      "content": {
+        "script": false,
+        "blog": false,
+        "translations": []
+      },
+      "hasDescriptions": false,
+      "images": {
+        "blog": false,
+        "spotify": false,
+        "youtube": false
+      },
+      "audio": {
+        "raw": false,
+        "enhanced": false,
+        "complete": false
+      },
+      "hasVideo": false
+    }
+  ]
+}
