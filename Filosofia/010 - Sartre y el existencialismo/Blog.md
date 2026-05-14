@@ -1,0 +1,109 @@
+# Sartre y el existencialismo: todo depende de vos
+
+"Estamos condenados a ser libres". Exploramos la filosofía de Sartre: no hay destino prefijado, vos creás tu esencia con cada decisión. La libertad absoluta como bendición y condena a la vez.
+
+Un tipo bizco, de metro y medio de altura, fumando tres paquetes de cigarrillos por día, tomando anfetaminas para escribir y rechazando el Premio Nobel de Literatura. Ese era Jean-Paul Sartre, el filósofo que te miraba desde sus lentes gruesos y te decía: "Vos sos totalmente libre, y eso es tu condena". Y no lo decía desde una torre de marfil académica, lo decía sentado en el Café de Flore en París, rodeado de escritores, artistas y estudiantes, discutiendo sobre política, literatura y la libertad humana hasta las tres de la mañana.
+
+Sartre no fue uno de esos filósofos que escriben tratados incomprensibles desde el aislamiento. El tipo vivió su filosofía, la puso en práctica, la llevó a las calles. Y su idea central era tan simple como devastadora: no hay nada ni nadie que determine quién sos o qué tenés que hacer con tu vida. No hay manual de instrucciones, no hay esencia humana predeterminada, no hay Dios que te marque el camino. Estás tirado acá, en este mundo, y tenés que decidir qué hacer. Cada segundo que pasa, estás eligiendo quién sos.
+
+Para muchos, esta idea fue liberadora. Para otros, aterradora. Porque si todo depende de vos, entonces no podés echarle la culpa a nadie más. No podés decir "es que así soy yo" o "nací así" o "Dios quiere que sea de esta manera". No, amigo. Vos elegís. Y con esa elección viene toda la responsabilidad del mundo.
+
+Pero arranquemos por el principio. ¿Quién era este Jean-Paul Sartre y por qué medio París lo escuchaba como si fuera un rockstar en los años cuarenta y cincuenta?
+
+## Un filósofo que llegó desde los márgenes
+
+Sartre nació en 1905 en París, en una familia de clase media. El padre se le murió cuando él tenía apenas quince meses, así que lo crió básicamente su abuelo materno, que era profesor de alemán. De chico era un chico enfermizo, de aspecto raro, con un ojo desviado que le generó un complejo terrible toda su vida. Pero compensaba con una inteligencia feroz y una capacidad de lectura que era casi enfermiza. A los nueve años ya estaba leyendo de todo, devorando literatura como si fuera su droga.
+
+Estudió en la École Normale Supérieure, que es como decir que entró en la Champions League de la filosofía francesa. Ahí conoció a Simone de Beauvoir en 1929, y ahí arrancó una de las relaciones más fascinantes del siglo veinte. No se casaron nunca, no vivieron juntos de forma permanente, tuvieron relaciones abiertas con otras personas, pero fueron compañeros intelectuales y sentimentales durante más de cincuenta años. Una pareja poco convencional que vivía según sus propias reglas, no según lo que la sociedad esperaba de ellos. Muy existencialista todo, si lo pensás.
+
+En los años treinta, Sartre viaja a Alemania y descubre la fenomenología, especialmente la filosofía de Heidegger y Husserl. Queda fascinado con la idea de estudiar las cosas "tal como aparecen", sin prejuicios ni teorías previas. Vuelve a Francia con la cabeza llena de ideas y empieza a escribir. Primero publica "La náusea" en 1938, una novela filosófica que cuenta la historia de un tipo llamado Antoine Roquentin que experimenta la absurdidad radical de la existencia. El personaje se da cuenta de que las cosas simplemente están ahí, sin razón, sin propósito, y eso le genera una sensación física de asco y desorientación. La novela fue un éxito, pero todavía Sartre no era el fenómeno que se volvería después.
+
+## La guerra que lo transformó
+
+Y después vino la guerra. La Segunda Guerra Mundial lo cambió todo. Sartre fue reclutado, cayó prisionero de los alemanes en 1940, pasó nueve meses en un campo de prisioneros de guerra. Ahí, en ese encierro, organizaba obras de teatro con otros prisioneros y seguía reflexionando sobre la libertad, la elección y la responsabilidad. Cuando lo liberaron por problemas de salud en 1941, volvió a París ocupada por los nazis y se unió a la Resistencia. Su compromiso no fue de tipo militar, sino más bien intelectual, escribiendo para publicaciones clandestinas. Pero la experiencia de vivir bajo la ocupación nazi, de ver cómo la gente se adaptaba o resistía, de enfrentarse a dilemas morales concretos, eso marcó profundamente su filosofía.
+
+En 1943, en plena ocupación, publica "El ser y la nada", su obra filosófica más importante. Un volumen de casi setecientas páginas que es técnico, denso, difícil de leer, pero que contiene las ideas centrales de su existencialismo. Y acá viene lo sorprendente: en medio de una guerra, con París ocupada, el libro se convierte en un bestseller. La gente lo leía en los cafés, lo discutía en las calles. ¿Por qué? Porque Sartre les estaba dando algo que necesitaban leer: ustedes son libres, incluso acá, incluso ahora.
+
+## El existencialismo se pone de moda
+
+Después de la guerra, Sartre se vuelve una celebridad filosófica como no se había visto antes. El existencialismo se pone de moda. Los jóvenes se visten de negro, se juntan en cafés a discutir sobre la angustia y la libertad, escuchan jazz, fuman como chimeneas. Sartre da conferencias donde la gente se pelea por entrar, hace apenas lugar para respirar. En 1945 da una charla titulada "El existencialismo es un humanismo" donde trata de explicar sus ideas de forma más accesible, porque ya lo estaban acusando de pesimista, de nihilista, de promover la desesperación.
+
+Pero bueno, ¿de qué estamos hablando cuando hablamos de existencialismo? Vamos al núcleo de la cuestión.
+
+## La existencia precede a la esencia
+
+La idea central, la que resume todo, es esta: la existencia precede a la esencia. Suena raro, pero es más simple de lo que parece. Pensalo así: cuando alguien fabrica un cuchillo, primero tiene en mente la idea del cuchillo, para qué sirve, cómo tiene que ser. O sea, primero está la esencia (la idea, el propósito) y después viene la existencia (el objeto concreto). El cuchillo existe para cortar, esa es su esencia, y fue hecho de acuerdo a ese propósito.
+
+Ahora, durante siglos, los filósofos y las religiones pensaron que con los humanos pasaba lo mismo. Que Dios, o la naturaleza, o alguna ley universal, primero diseñó qué es el ser humano, cuál es su propósito, cuál es su esencia, y después nos creó de acuerdo a ese diseño. Tipo, nacés con un manual de fábrica que dice "el ser humano es racional", o "el ser humano está hecho para ser bueno", o "el ser humano tiene que buscar la felicidad". Ya vendríamos con la esencia incorporada.
+
+Sartre dice que no, que es al revés. Primero existís, aparecés en el mundo, estás acá, tirado, sin manual, sin instructivo. Y después, con tus decisiones, con tus acciones, vas creando tu esencia. Vas definiendo quién sos. No hay una naturaleza humana universal que determine cómo tenés que ser. Vos te hacés a vos mismo.
+
+Esto es radical, ¿entendés? Significa que no podés decir "yo soy así" como si fuera algo fijo e inmutable. No podés decir "es que tengo mal genio" o "es que soy tímido" como si fueran hechos de la naturaleza que no podés cambiar. Para Sartre, en cada momento estás eligiendo ser de determinada manera. Si sos un tipo violento, es porque estás eligiendo la violencia. Si sos generoso, es porque estás eligiendo la generosidad. Nada está escrito de antemano.
+
+## La condena de ser libre
+
+Y acá viene lo más exigente: sos absolutamente libre. No importa en qué situación te encuentres, siempre tenés opciones. Incluso en situaciones extremas, como estar en un campo de concentración, tenés la libertad de elegir tu actitud, cómo vas a responder. Sartre no está diciendo que todas las situaciones son iguales o que da lo mismo estar en una o en otra. Obviamente que no. Está diciendo que incluso en las peores circunstancias, vos seguís siendo un sujeto que elige, que decide.
+
+Y esta libertad absoluta es, al mismo tiempo, una condena. Porque no podés escaparte de ella. No podés decir "yo no elegí esto". Bueno, sí, capaz no elegiste nacer, no elegiste tu familia, no elegiste muchas de las circunstancias de tu vida. Pero estás eligiendo, todo el tiempo, cómo responder a esas circunstancias. Y esa elección te define.
+
+### Angustia, desamparo y desesperación
+
+Sartre habla de tres conceptos clave que acompañan esta libertad: la angustia, el desamparo y la desesperación. Suena a heavy metal, pero tiene sentido.
+
+La angustia es lo que sentís cuando te das cuenta de que realmente sos libre y responsable. No es miedo a algo concreto, es algo más profundo. Es la sensación vertiginosa de que todo depende de vos, de que no hay barandas, de que cada decisión te compromete. Sartre da un ejemplo: un general que tiene que mandar tropas al frente y sabe que muchos van a morir. La orden depende de él. No puede echarle la culpa al destino, a Dios, a la necesidad histórica. Él decide, y con esa decisión viene toda la angustia de la responsabilidad.
+
+El desamparo es la sensación de estar solo en tu decisión, sin un Dios que te guíe, sin valores absolutos que te digan qué hacer. Estás desamparado en el sentido de que no hay nadie más que pueda decidir por vos. Sartre cuenta el caso de un alumno suyo durante la guerra. El joven tenía que elegir entre quedarse a cuidar a su madre viuda, que lo necesitaba desesperadamente, o irse a Inglaterra a unirse a la Francia Libre y luchar contra los nazis. Dos opciones, ambas válidas moralmente, pero excluyentes. ¿Qué hacer? El alumno le pregunta a Sartre, buscando consejo. Y Sartre le dice: "Vos sos libre, vos elegís". No hay una respuesta correcta escrita en las estrellas. Lo que elijas, eso te va a definir. Es desamparador, sí, pero es la condición humana.
+
+La desesperación no es depresión ni tristeza, es más bien renunciar a contar con cosas que están fuera de tu control. Es aceptar que solo podés contar con lo que depende de tu libertad. No podés controlar el futuro, no podés controlar a los demás, solo podés controlar tus propias acciones en el presente.
+
+## La mala fe: cuando nos mentimos a nosotros mismos
+
+Ahora, con tanta libertad y tanta responsabilidad encima, ¿qué hace la gente? Muchas veces, huye. Y acá Sartre introduce un concepto que es brillante: la mala fe.
+
+La mala fe es cuando te mentís a vos mismo sobre tu propia libertad. Es cuando pretendés que no sos libre, que estás determinado por circunstancias externas, que "no te queda otra". Sartre da un ejemplo famoso: el mozo de café. Imaginate un mozo que interpreta su papel de manera tan mecánica, tan automática, que parece un robot. Se mueve con gestos estudiados, habla con un tono específico, hace todo según el manual del mozo perfecto. Está viviendo en mala fe porque está pretendiendo que él es un mozo, que esa es su esencia, que no tiene opción. Se esconde detrás del rol para no enfrentarse a su libertad y a las decisiones que podría tomar.
+
+O pensalo con ejemplos más cotidianos. El tipo que dice "es que así soy yo, qué le voy a hacer" cuando se comporta de manera irresponsable. La mujer que dice "es que mi signo es Escorpio, por eso soy celosa". El chico que dice "es que crecí en este barrio, no puedo ser de otra manera". Todas formas de mala fe. Todas formas de escaparse de la libertad y la responsabilidad.
+
+## El amor y el otro
+
+Sartre también es muy crítico con la idea del amor romántico convencional. Critica la noción de que podés poseer a otra persona, de que el amor es fusionarse con el otro hasta perder tu individualidad. Para él, cada persona es un sujeto libre que está constantemente eligiéndose a sí mismo. No podés reducir al otro a un objeto, no podés pretender que alguien sea "tuyo". La relación amorosa, para Sartre, es siempre un poco conflictiva porque involucra dos libertades que nunca pueden fundirse completamente. Es más honesto, capaz, pero menos romántico.
+
+## El Nobel rechazado y el compromiso político
+
+Una anécdota que muestra cómo Sartre vivía estas ideas: en 1964 le dan el Premio Nobel de Literatura. Es el reconocimiento máximo, el sueño de cualquier escritor. Y Sartre lo rechaza. Es el primero en la historia en rechazarlo voluntariamente. ¿Por qué? Porque para él, aceptar el premio significaba ser institucionalizado, ser apropiado por el establishment burgués occidental. Él quería mantener su libertad, su capacidad de criticar sin que lo ataran compromisos o reconocimientos oficiales. Coherente hasta el hueso.
+
+Sartre también se metió de lleno en la política. Fue comunista durante un tiempo, aunque un comunista raro, siempre crítico del estalinismo. Apoyó movimientos de descolonización, se opuso a la guerra de Argelia, defendió la Revolución Cubana. Viajó a Cuba, a la Unión Soviética, a China. Se peleó con Albert Camus, su amigo, por diferencias políticas. Firmó manifiestos, dio discursos, se involucró en toda clase de controversias. Porque para él, la filosofía no era algo que hacés en un escritorio, separado de la realidad. Si la libertad es lo fundamental, entonces hay que luchar por las condiciones sociales y políticas que permitan que las personas sean libres.
+
+## Libertad individual y justicia social
+
+Acá viene una tensión interesante en su pensamiento. Por un lado, dice que cada uno es absolutamente libre y responsable. Por otro lado, reconoce que las circunstancias sociales, económicas y políticas condicionan terriblemente las posibilidades de las personas. Un chico que nace en la pobreza extrema, sin acceso a educación, ¿es tan libre como uno que nace en la riqueza? Obviamente que no. Sartre intenta resolver esta tensión diciendo que la libertad no es hacer lo que querés, sino que es la capacidad de elegir dentro de una situación. Estás siempre en situación, condicionado por circunstancias concretas, pero dentro de esa situación, vos elegís cómo responder. Y esas elecciones importan.
+
+Por eso su filosofía tiene un aspecto moral y político fuerte. Si todos somos libres y responsables, entonces tenemos la responsabilidad no solo de elegir por nosotros mismos, sino de crear un mundo donde los demás también puedan ser libres. Cuando elijo, estoy creando una imagen de lo humano, estoy diciendo "yo creo que se puede vivir así". Y eso tiene consecuencias para todos.
+
+Sartre tiene una frase que resume esto: "Al elegirme, elijo al hombre". Cuando decido qué voy a hacer con mi vida, estoy también proponiendo un modelo de ser humano. No estoy solo eligiendo para mí, estoy eligiendo qué tipo de mundo quiero. Si elijo la cobardía, estoy diciendo que la cobardía es aceptable. Si elijo la valentía, estoy proponiendo la valentía como valor. Cada acción tuya es como un voto sobre cómo debería ser la humanidad.
+
+## Sartre en el siglo veintiuno
+
+¿Y qué tiene que ver todo esto con el presente, con nosotros, ahora, en el siglo veintiuno?
+
+Bueno, mirá alrededor. Vivimos en una época donde constantemente se nos dice quiénes tenemos que ser. Las redes sociales nos bombardean con modelos de éxito, con estándares de belleza, con formas "correctas" de vivir. Los algoritmos nos encasillan, nos predicen, nos meten en burbujas. La publicidad nos vende identidades prefabricadas. Y es muy fácil, muy tentador, adoptar una de esas identidades enlatadas y decir "bueno, listo, yo soy esto".
+
+El existencialismo de Sartre es un antídoto contra eso. Te dice: no, amigo, vos no sos lo que Instagram dice que sos. No sos tus likes, no sos tu trabajo, no sos tu ropa, no sos tu imagen. Sos tus elecciones. Y esas elecciones las hacés vos, nadie más.
+
+También aplica a cuando nos justificamos diciendo "es que la sociedad es así" o "es que todo el mundo hace esto". Para Sartre, eso es mala fe. Vos podés elegir diferente. Podés elegir no seguir la corriente. Y sí, tiene consecuencias, quizás te va a costar, pero es tu elección.
+
+O cuando decimos "no tengo opción", "no me queda otra", "estoy atrapado en este trabajo/relación/situación". Sartre te mira con ese ojo bizco y te dice: estás eligiendo quedarte. Quizás las alternativas son difíciles, quizás son costosas, pero siempre están ahí. Y no elegir es también una elección.
+
+Esto puede sonar brutal, y lo es. Hay algo casi implacable en Sartre. Pero también hay algo profundamente liberador. Porque si todo depende de vos, entonces podés cambiar. No estás determinado por tu pasado, por tus errores, por tus circunstancias. En cada momento podés elegir ser diferente.
+
+## El legado del filósofo que rechazó el Nobel
+
+Sartre murió en 1980, medio ciego, bastante enfermo, después de una vida de escribir, fumar, tomar, militar y filosofar sin parar. Su entierro fue multitudinario, más de cincuenta mil personas acompañaron el cortejo fúnebre por las calles de París. El tipo que rechazó el Nobel, que se pasó la vida diciendo que no había autoridades ni esencias fijas, terminó siendo una especie de ícono, casi un gurú. La ironía no se le escapaba a nadie.
+
+¿Qué nos deja Sartre? No soluciones fáciles, eso seguro. No recetas para la felicidad ni caminos trazados. Lo que nos deja es una forma de pensar sobre nosotros mismos que es incómoda, exigente, pero también honesta. Nos dice: mirá, el mundo es absurdo, no tiene sentido intrínseco, no hay un plan divino ni un propósito cósmico. Pero eso no es una tragedia, es una oportunidad. Porque significa que vos podés crear sentido, vos podés decidir qué importa, vos podés construir tu proyecto de vida.
+
+Y sí, te vas a equivocar. Vas a tomar decisiones de las que te vas a arrepentir. Vas a sentir angustia, desamparo, incertidumbre. Pero también vas a ser vos, auténticamente vos, no una copia de lo que otros esperan que seas.
+
+El existencialismo de Sartre no es para todo el mundo. Requiere un nivel de honestidad brutal con uno mismo que es agotador. Requiere asumir la soledad de saber que nadie puede decidir por vos. Requiere aceptar toda la responsabilidad de tu vida. Pero para los que se animan, ofrece algo valioso: la posibilidad de vivir una vida genuina, elegida, propia.
+
+La próxima vez que te encuentres diciendo "es que yo soy así" o "no tengo opción", acordate del viejo filósofo bizco de metro y medio que fumaba sin parar y que te diría: "Un momento. Vos estás eligiendo eso. Y si lo estás eligiendo, podés elegir diferente". Es exigente, sí. Pero también es liberador.
