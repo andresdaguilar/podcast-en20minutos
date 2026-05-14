@@ -1,0 +1,93 @@
+# El Lobo Estepario
+
+Hermann Hesse, año 1926, Zúrich. Cincuenta años, separado de su segunda esposa, casi sin hablar con nadie, encerrado en un cuarto pequeño en la casa de una conocida. Y todas las noches, antes de dormir, se promete a sí mismo lo mismo: el día que cumpla cincuenta años, se va a cortar la garganta con una navaja de afeitar. No es una metáfora. Es un plan. Tiene la fecha marcada y tiene la hoja afilada.
+
+Hesse no terminó haciéndolo, obviamente. Lo que hizo en cambio fue agarrar todo eso, todo ese hueco negro, y escribir el libro más raro y más perturbador de su carrera. Lo publicó en 1927 y se llamó "Der Steppenwolf", "El Lobo Estepario". Cuarenta años después, en los años sesenta, los hippies en California iban a leerlo escondidos en mochilas, lo iban a meter en bibliotecas universitarias, una banda de rock que iba a vender millones de discos se iba a llamar exactamente igual que el libro, Steppenwolf, esa de "Born to be Wild". Y Hesse, que para entonces ya había muerto, iba a quedar para siempre asociado con esa cosa rara que es ser raro, sentirse partido al medio, no encajar en ningún lado.
+
+En este artículo vamos a contar de qué se trata El Lobo Estepario. Por qué es un libro que fascina y a la vez confunde. Cómo un tipo de mediana edad, depresivo, casi suicida, terminó escribiendo una de las novelas más leídas del siglo veinte. Y por qué hoy, casi cien años después, sigue diciendo algo importante sobre la sensación de no terminar de pertenecer a ningún lugar.
+
+Arranquemos por el autor. Hermann Hesse nació en 1877 en una familia muy religiosa, muy estricta, en el sur de Alemania. Padre misionero, madre hija de misioneros. Toda la infancia rodeada de Biblia, salmos, oraciones. Y desde chico, Hermann se rebela. A los catorce años se escapa de un seminario, intenta suicidarse por primera vez, lo internan en un instituto psiquiátrico. La adolescencia entera es eso: depresiones, fugas, internaciones. Le diagnostican "melancolía". Hoy le dirían depresión mayor.
+
+Pero también desde chico tiene una cosa: ama leer y ama escribir. Empieza a publicar poesía joven, y a los veintisiete años saca "Peter Camenzind", que se vuelve un éxito. Le compra una casa. Se casa, tiene tres hijos, parece encarrilado. Pero abajo de esa fachada, sigue siendo el mismo pibe melancólico de siempre.
+
+Estalla la Primera Guerra Mundial. Hesse se opone a la guerra públicamente. Lo crucifican en Alemania, lo tratan de traidor. Su padre se muere. Su mujer entra en una crisis psicótica. Su hijo se enferma gravísimo. Y él se derrumba. Termina haciendo psicoanálisis con J.B. Lang, un discípulo de Carl Jung, el suizo de los arquetipos y el inconsciente colectivo. Después se va a analizar también con el propio Jung.
+
+## Esto es importante porque toda la obra de Hesse de ahí en adelante…
+
+Esto es importante porque toda la obra de Hesse de ahí en adelante va a estar empapada de Jung. La idea de que tenemos varias capas adentro, que hay un inconsciente que habla en imágenes, símbolos, sueños. La idea de que el camino del crecimiento es bajar a esos sótanos del alma e integrar lo que encontrás. En el Lobo Estepario eso aparece todo el tiempo.
+
+Para 1926 Hesse está separado de su segunda esposa, Ruth. Vive solo. Tiene casi cincuenta años. Y esa es la situación con la que el libro arranca.
+
+Bueno, ¿de qué trata el libro? La novela tiene una estructura medio rara, como muñecas rusas. Se abre con un prefacio escrito por un narrador que dice ser el sobrino de la dueña de la pensión donde vivió un tipo llamado Harry Haller. Cuenta que Harry, un día, se fue sin dejar dirección, y dejó atrás un manuscrito. Ese manuscrito es lo que vamos a leer. Adentro del manuscrito hay otro texto más, un folleto que le dan en la calle a Harry, titulado "Tractatus del Lobo Estepario". Y adentro de todo eso, al final, está la escena famosa, la del Teatro Mágico.
+
+Conozcamos a Harry Haller. Cincuenta años, intelectual, escritor, vive solo en una pensión en una ciudad alemana sin nombre. Es un tipo cultísimo. Lee a Goethe, escucha a Mozart, conoce el latín, sabe griego. Pero no soporta el mundo en el que le tocó vivir. Odia el jazz, odia los autos, odia la radio, odia las luces de neón, odia el cine, odia el optimismo idiota de la posguerra, odia a la burguesía alemana que actúa como si nada hubiera pasado entre 1914 y 1918.
+
+Y a la vez, paradoja gigante, vive metido en esa burguesía que tanto desprecia. Alquila su pieza en una casa donde la dueña tiene plantitas en el living y limpia los pasillos los miércoles. Cuando sube por la escalera, Harry se para a oler las plantas y a contemplar el felpudo perfectamente acomodado, y se siente raro, porque todo eso le da algo parecido a la ternura. Hay una escena hermosa donde piensa que él, un lobo salvaje, lo que más extraña en el fondo es justamente eso: el orden, la calidez, el olor a cera del piso lustrado.
+
+Esa contradicción es el motor de todo el libro. Harry se ve a sí mismo como un ser doble. Por un lado, un hombre culto, sensible, espiritual. Por el otro, un lobo de la estepa, un animal salvaje, instintivo, que nunca se va a domesticar del todo. Cuando el lado humano disfruta de Mozart, el lobo se ríe con desprecio. Cuando el lobo quiere salir corriendo a aullarle a la luna, el hombre lo retiene a fuerza de educación y de buenos modales. Y los dos se odian. Harry vive en un combate civil interno permanente, agotador.
+
+---
+
+*"Para 1926 Hesse está separado de su segunda esposa, Ruth."*
+
+*"La novela tiene una estructura medio rara, como muñecas rusas."*
+
+---
+
+Una noche, deprimido, paseando por la ciudad, pasa por un cartel raro pegado en una pared vieja. Dice: "Teatro Mágico. Entrada no para cualquiera. Solo para locos". Cuando se acerca a leerlo, las letras se borran. Sigue caminando, y un hombre con un cartel le entrega un folleto. Cuando llega a su pieza, lo abre y se da cuenta de que no es publicidad: es un texto extraño, profundo, que se llama "Tractatus del Lobo Estepario". Y ahí, en tercera persona, alguien describe minuciosamente quién es él.
+
+## Ese tractatus, ese pequeño librito dentro del libro, es…
+
+Ese tractatus, ese pequeño librito dentro del libro, es probablemente la parte más conocida y citada de toda la obra de Hesse. Lo que dice básicamente es esto: Harry está equivocado al pensar que es solo dos cosas, hombre y lobo. Esa es una simplificación, un mito que él mismo se inventó para soportarse. En realidad, todos somos un montón de yos distintos, hechos de capas y capas y capas de personajes interiores. La gente se cree una unidad, un yo único, sólido. Pero eso es una ilusión. Adentro hay un teatro entero, decenas, cientos de personajes que conviven, discuten, se contradicen. La salud mental no es elegir uno y matar a los otros. Es aprender a moverse entre todos, conocerlos, integrarlos, dejar que cada uno ocupe su espacio.
+
+El tractatus también dice algo más, durísimo: Harry tiene tendencia al suicidio, y eso no es porque las cosas que le pasan sean tan terribles, sino porque su personalidad está estructurada de esa forma. Hay gente que viene programada para considerar el suicidio como una salida posible siempre, todo el tiempo, y eso los acompaña como una sombra. La buena noticia, dice el folleto, es que justamente saberlo te libera un poco. Si sabés que es una compulsión y no una conclusión, ya no te asusta tanto.
+
+Harry termina de leer y queda devastado y al mismo tiempo aliviado. Alguien lo entendió. Alguien escribió, sobre él, lo que él jamás se atrevió a pensar.
+
+Pasan los días. Harry está cada vez peor. Una noche, después de una cena espantosa con un viejo conocido, profesor universitario, donde discuten porque el otro es un nacionalista alemán y Harry no, decide: bueno, esta noche es. Vuelve a la pensión, agarra la navaja, se prepara mentalmente. Pero antes, para no morirse en su pieza y dejarle el lío a la pobre dueña, sale a caminar. Es una noche helada. Camina sin rumbo. Y termina entrando, casi por accidente, a un boliche horrible, popular, con jazz, con humo, con luces.
+
+En la barra, una chica se le acerca. Le pregunta qué le pasa, por qué tiene esa cara. Le ofrece algo de tomar. Le habla con una mezcla de ternura y firmeza. Esa chica es Hermine.
+
+Hermine es uno de los personajes más raros y más lindos de la novela. Es una especie de prostituta libre, una bailarina, una mujer que vive del día a la noche y que parece, por momentos, una hermana, otras una madre, otras una amante, otras un espejo. Hesse la dibuja medio andrógina, con un peinado corto, y en algún momento Harry incluso piensa que se parece a un amigo de infancia varón, Hermann. De hecho el nombre Hermine es la versión femenina de Hermann. La chica es, para él, una proyección. Una parte de él mismo que lo viene a buscar.
+
+Hermine le pone un trato. Le dice: yo te voy a salvar. Pero a cambio vos tenés que aprender a vivir como vive la gente. Vas a aprender a bailar, vas a aprender a divertirte, vas a aprender a tener sexo sin culpa, vas a aprender a escuchar el jazz que tanto despreciás. Y cuando ya hayas aprendido todo eso, cuando estés enamorado de mí, te voy a pedir una sola cosa, una última cosa, y la vas a hacer sin chistar. ¿Trato hecho? Y Harry, fascinado, dice que sí.
+
+## Empieza entonces una segunda vida
+
+Empieza entonces una segunda vida. Hermine le presenta a una amiga, María, que se vuelve su amante. Le presenta a un saxofonista que se llama Pablo, un tipo medio andrógino también, hermoso, que toca jazz, que casi no habla, que tiene siempre una sonrisa misteriosa. Pablo es un personaje medio chamánico. Maneja drogas, conoce el Teatro Mágico, mira a Harry como si supiera de él más de lo que el propio Harry sabe.
+
+Durante meses, Harry baila el fox-trot, aprende el tango, se entrega a María, hace cosas que nunca había hecho. El intelectual rancio se afloja. El lobo de la estepa se ríe. Y la cabeza se le llena de ideas nuevas. Se da cuenta de que lo que despreciaba como vulgar, en realidad era vida. Que su cultura altísima lo había desconectado de algo elemental.
+
+La cosa estalla en un baile de máscaras enorme, una fiesta de carnaval que dura toda la noche. Al final del baile, Hermine y Harry terminan abrazados. Y Pablo aparece y los invita a los dos a su casa. Les dice: "ahora sí, vamos al Teatro Mágico". Les ofrece un cigarrillo raro, los hace tomar algo de un frasco. Y los lleva a un pasillo lleno de puertas. Cada puerta tiene un cartel: "Caza alegre y exitosa de automóviles", "Curso de armado completo de la personalidad", "Maravilloso adiestramiento del lobo estepario", "Todas las chicas son tuyas", "Cómo se mata por amor".
+
+Y empieza el Teatro Mágico. Esa secuencia final, casi alucinatoria, es la parte más experimental del libro. Harry abre puertas, entra, vive escenas distintas. Cada puerta es una posibilidad de su propia vida, una versión de él mismo, una fantasía. Detrás de una conoce a todas las mujeres que pudo haber amado y no amó. Detrás de otra es un cazador en una guerra civil entre humanos y máquinas, donde los hombres con autos son los enemigos. Detrás de otra ve a su propia personalidad como un tablero de ajedrez, donde un jugador maestro acomoda y reacomoda las piezas: cada pieza es uno de sus yos, y aprende que las piezas se pueden cambiar de lugar, sumar, mover, reordenar; que no hay un único Harry, hay infinitos posibles, y todos están ahí esperando.
+
+Pero Hesse no se queda en lo lindo. La última puerta es brutal. Detrás encuentra a Hermine y a Pablo desnudos, durmiendo abrazados después de hacer el amor. Y Harry, el intelectual sensible, el que había aprendido tanto, el que se creía iluminado, en lugar de reírse o de dejarlos en paz, agarra un cuchillo y la mata a Hermine. La hiere en el corazón. La sangre mancha la piel blanca de la chica. Y cuando se da cuenta de lo que hizo, cae de rodillas.
+
+Aparece Mozart. Sí, Mozart, el compositor, en el Teatro Mágico, escuchando música por una radio horrible que distorsiona toda la pieza. Y Mozart se ríe. Y le dice a Harry algo así como: vos no entendiste nada. El Teatro Mágico es para reírse, no para tomarse en serio. La vida también. Tomaste todo demasiado solemne, demasiado dramático, te creíste el protagonista trágico de una novela alemana, y no te diste cuenta de que esto es un juego.
+
+Harry es juzgado simbólicamente. Lo condenan a "seguir viviendo y aprender a reír". Mozart desaparece, Pablo aparece, Hermine no estaba realmente muerta, era una figura, un símbolo, una proyección. El Teatro Mágico se desarma. Y Harry, en la última línea del libro, dice algo así como: alguna vez voy a saber jugar mejor el juego de las figuras. Alguna vez voy a aprender a reírme. Pablo me espera. Mozart me espera.
+
+## Y ahí termina
+
+Y ahí termina. Sin moraleja explícita, sin moraleja gritada. Pero con una clave clara: la salida del Lobo Estepario no es ni el suicidio ni la disolución total en lo burgués. La salida es el humor, la pluralidad, la capacidad de no tomarse uno mismo demasiado en serio.
+
+Cuando el libro salió en 1927, fue un fenómeno raro. Vendió bien, pero la crítica lo trató con cierto escepticismo. Lo acusaron de ser confuso, autoindulgente, demasiado raro. Hesse mismo, años después, dijo varias veces que sentía que su libro era el más malentendido de su obra. Que la gente se quedaba con el primer tercio, la parte oscura, la parte de la dualidad lobo-hombre, y nunca llegaba al final, a la parte donde se desbarata todo eso. Que muchos lectores se identificaron con Harry como mártir solitario, cuando justamente el libro está burlándose, con cariño, de esa identificación.
+
+Hay un dato curioso. Hesse ganó el Premio Nobel de Literatura en 1946, pero no por el Lobo Estepario, sino por su obra completa, donde pesaba más Siddhartha y El juego de los abalorios. Y sin embargo el Lobo Estepario, treinta años después, en los años sesenta, terminó siendo el libro suyo más leído del planeta, sobre todo entre jóvenes universitarios norteamericanos. La contracultura encontró ahí un manual de iniciación. La banda de rock canadiense Steppenwolf, formada en 1967, sacó el nombre directamente de la novela. Y los cronistas del movimiento hippie citaban a Hesse a cada rato.
+
+Esa lectura sesentista fue, en parte, una lectura sesgada. Mucha gente leyó el Teatro Mágico como una metáfora del viaje psicodélico. Pablo era el iniciador, las puertas eran puertas químicas, la fragmentación del yo era lo que se sentía con LSD. Hesse, que para entonces era un viejo de ochenta y pico viviendo retirado en Suiza, se enteraba de todo eso por cartas y se reía un poco, se preocupaba un poco. Decía que él no había escrito un manual de drogas. Que el viaje del que hablaba era un viaje interior, simbólico, espiritual.
+
+Vale la pena detenerse en un detalle que muchas veces se pasa por alto. En medio del libro, Harry Haller tiene una escena muy fuerte con Goethe. Sí, con Goethe, el escritor alemán muerto hacía cien años, el monstruo sagrado de la literatura alemana. Harry sueña con él, le reclama por haber sido demasiado solemne, demasiado prócer, por haberse vendido a la corte y al éxito. Y Goethe, en el sueño, se ríe de él. Le dice algo así como: chico, vos te tomaste todo demasiado en serio, yo en cambio me reía mucho, mucho más de lo que ustedes imaginan. Esa charla onírica con Goethe es como un anticipo de lo que después va a pasar con Mozart. Hesse parece insistir, una y otra vez, con la misma idea: los grandes inmortales, los Mozart, los Goethe, los Buda, no son los tipos serios y trágicos que la posteridad pintó. Son los que aprendieron a reír. Son los que entendieron que la vida es un juego enorme, terrible y a la vez gracioso, y que la única salud posible está en jugar bien ese juego.
+
+Hay también una crítica política que muchas veces se pierde. El Lobo Estepario es un libro escrito en la Alemania de Weimar, esa república frágil, herida, llena de odio y de revanchismo, donde el nazismo todavía no había llegado al poder pero ya estaba calentando motores. Harry, en sus charlas con el profesor nacionalista, se pelea exactamente con eso: con la idea de que la guerra fue gloriosa, de que Alemania tiene que volver a armarse, de que los enemigos de la patria están adentro. Hesse, antes que casi nadie, vio venir lo que se venía. Y la novela tiene ahí una capa de denuncia política que se suele leer poco, pero que está. La burguesía a la que Harry odia no es solo la del salón con plantitas, es también la que aplaude la guerra y se prepara para la siguiente.
+
+Pero más allá de la interpretación de los hippies, lo que el libro toca es algo bastante más universal. Toca la sensación de no encajar. La sensación de tener adentro voces que se contradicen. La sensación de odiar al mundo y al mismo tiempo querer ser parte. La idea de que la educación, la cultura, la inteligencia, te pueden secar, te pueden alejar de la vida. Y la idea de que la salida no es renunciar a la inteligencia, sino integrar lo otro: el cuerpo, el deseo, el baile, la música popular, la risa.
+
+## En clave actual, El Lobo Estepario sigue siendo un libro que…
+
+En clave actual, El Lobo Estepario sigue siendo un libro que conversa con cualquiera que se sienta dividido. El tipo o la tipa que se siente demasiado raro para los normales y demasiado normal para los raros. El que tiene un perfil de redes impecable y una crisis interna feroz. El que tiene una vida acomodada y, a la vez, sueña con romper todo. La novela les habla, les pone en escena ese conflicto, y, sobre todo, les sugiere algo: tu yo no es uno solo. No tenés que elegir un personaje y matar al resto. Podés ser muchos. Y mientras más sepas habitar todos esos personajes con humor, menos pesada se va a sentir la vida.
+
+Hermann Hesse murió en Suiza en 1962, a los ochenta y cinco años, de un derrame cerebral, mientras dormía. Para entonces, la fiebre del Lobo Estepario recién empezaba. Sus libros se traducirían a sesenta idiomas. Y el Tractatus del Lobo Estepario, ese folleto raro adentro del libro, todavía hoy circula como pieza suelta por blogs, foros y redes, como si fuera el mejor diagnóstico jamás escrito de un cierto tipo de tristeza moderna: la del que tiene todo y no puede.
+
+El libro queda como un mapa de salida posible. No prescribe nada. No te dice qué tenés que hacer. Pero te susurra que adentro tuyo hay más gente de la que pensás, que algunos de ellos saben bailar, que la solemnidad propia es enemiga, y que la risa, esa risa de Mozart al final, esa risa de los inmortales como la llama Hesse, es probablemente lo más cercano que tenemos a una cura.
