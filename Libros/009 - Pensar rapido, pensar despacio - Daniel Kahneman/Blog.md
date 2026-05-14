@@ -1,0 +1,157 @@
+# Pensar Rápido, Pensar Despacio - Daniel Kahneman
+
+Un psicólogo gana el Premio Nobel de Economía. Suena raro, ¿no? Pero eso fue exactamente lo que pasó en 2002 cuando Daniel Kahneman demostró algo que los economistas llevaban décadas negando: que los seres humanos no somos las máquinas racionales que ellos creían. Somos un desastre predecible, y Kahneman pasó más de cincuenta años documentando exactamente cómo nos equivocamos una y otra vez de las mismas maneras.
+
+"Pensar Rápido, Pensar Despacio" salió en 2011 y se convirtió en un fenómeno mundial porque habla de algo que todos experimentamos: cómo pensamos, cómo decidimos, y por qué creemos que estamos siendo racionales cuando en realidad dejamos que atajos mentales tomen las decisiones por nosotros.
+
+## Los dos sistemas de pensamiento
+
+La idea central del libro es brillante en su simplicidad. Kahneman propone que tenemos dos sistemas de pensamiento.
+
+### Sistema 1: rápido e intuitivo
+
+El Sistema 1 es rápido, automático, intuitivo. Es el que te hace frenar cuando ves una luz roja, el que completa la frase "pan y..." con "manteca" sin pensarlo. Funciona sin esfuerzo, siempre está activo.
+
+### Sistema 2: lento y analítico
+
+El Sistema 2 es lento, deliberado, analítico. Es el que usás cuando tenés que calcular cuánto es diecisiete por veinticuatro o llenar la declaración de impuestos. Requiere atención y concentración. Y acá viene el problema: el Sistema 2 es vago. Consume mucha energía, así que nuestro cerebro prefiere dejarlo apagado la mayor parte del tiempo.
+
+### La ilusión del control consciente
+
+Pensás que ahora mismo, mientras lees esto, estás usando tu Sistema 2, prestando atención de forma consciente. Pero la realidad es que tu Sistema 1 está haciendo casi todo el trabajo. Está procesando las palabras, interpretando el significado, conectando ideas. El Sistema 2 apenas interviene, salvo que aparezca algo realmente difícil o sorprendente.
+
+### El problema del bate y la pelota
+
+Kahneman ilustra esto con un experimento famoso. Te pido que contestes rápido: un bate y una pelota cuestan juntos un dólar con diez centavos. El bate cuesta un dólar más que la pelota. ¿Cuánto cuesta la pelota? La mayoría de la gente responde "diez centavos" inmediatamente. Es la respuesta que salta a la mente. Pero está mal. Si la pelota costara diez centavos, el bate costaría un dólar con diez centavos más, o sea un dólar con veinte. Juntos sumarían un dólar con treinta. La respuesta correcta es que la pelota cuesta cinco centavos.
+
+Este ejemplo tan simple demuestra algo fundamental: nuestro Sistema 1 nos da una respuesta rápida y convincente, y nuestro Sistema 2 es tan vago que ni se molesta en verificarla. Miles de estudiantes universitarios, incluyendo los de Princeton y Harvard, cayeron en esta trampa. No porque sean tontos, sino porque el Sistema 1 es así de poderoso y el Sistema 2 así de perezoso.
+
+### El Sistema 1 no es el enemigo
+
+Ahora, el Sistema 1 no es el malo de la película. La mayor parte del tiempo funciona increíblemente bien. Es producto de millones de años de evolución. Cuando nuestros ancestros escuchaban un ruido en los arbustos, los que tenían un Sistema 1 rápido que les gritaba "¡peligro, corré!" sobrevivían. El problema es que ahora vivimos en un mundo muy distinto, pero seguimos con el mismo software mental.
+
+## Las heurísticas: atajos mentales que nos engañan
+
+Kahneman dedicó décadas a estudiar algo que él llama "heurísticas". Son atajos mentales que usa el Sistema 1 para tomar decisiones rápidas. La mayoría del tiempo funcionan bien, pero sistemáticamente nos llevan a errores predecibles.
+
+### La heurística de disponibilidad
+
+Una de las más importantes es la heurística de disponibilidad. Básicamente, juzgamos la probabilidad de algo según qué tan fácil nos resulta recordar ejemplos de esa cosa. Es un atajo eficiente en muchos contextos, pero nos lleva a sobreestimar lo dramático y subestimar lo común.
+
+Por ejemplo, después de ver noticias sobre accidentes de avión, la gente sobreestima brutalmente el riesgo de volar. Los accidentes de avión salen en todos los noticieros, son dramáticos, impactantes, memorables, imposibles de olvidar. Pero los accidentes de auto, que matan muchísima más gente, son tan comunes que ni aparecen en las noticias salvo que sean muy graves. Entonces tu Sistema 1, usando la heurística de disponibilidad, concluye que volar es más peligroso porque te resulta más fácil recordar accidentes de avión que accidentes de auto. Estadísticamente es al revés, pero tu cerebro no hace estadística rigurosa, hace lo que es fácil y rápido.
+
+### El anclaje: cuando un número arbitrario te manipula
+
+Otra heurística fascinante es la del anclaje. Resulta que podés influenciar las estimaciones de la gente simplemente mencionando un número, cualquier número, incluso si es completamente irrelevante. En un experimento, Kahneman y su colega Amos Tversky le pedían a la gente que girara una ruleta trucada que siempre caía en diez o en sesenta y cinco. Después les preguntaban: "¿Qué porcentaje de países africanos son miembros de las Naciones Unidas?" Los que habían visto el diez en la ruleta estimaban alrededor del veinticinco por ciento. Los que habían visto sesenta y cinco estimaban alrededor del cuarenta y cinco por ciento. Una ruleta completamente aleatoria estaba determinando sus respuestas a una pregunta de conocimiento general.
+
+Esto tiene implicaciones enormes en la vida real. Cuando vas a negociar el precio de un auto, quien tira el primer número establece el ancla. Si el vendedor dice "este auto vale veinte mil dólares", incluso si te parece caro, ese número ya quedó instalado en tu cabeza como referencia. Todas tus contraofertas van a orbitar alrededor de ese ancla. Por eso los buenos negociadores saben que tirar el primer número es una ventaja enorme. El anclaje funciona incluso cuando sabés que te están manipulando, porque es un proceso automático del Sistema 1 que es muy difícil de controlar conscientemente.
+
+### El sesgo de sustitución
+
+Pero hay más. Kahneman también descubrió el sesgo de sustitución. Cuando nos hacen una pregunta difícil, nuestro Sistema 1 la reemplaza por una más fácil sin que nos demos cuenta. Si te preguntan "¿Sos feliz con tu vida en general?", tu Sistema 1 la sustituye por "¿Cómo me siento ahora mismo?" Si acabás de tomar un café rico, vas a decir que sí. Si te acaba de pasar algo molesto, vas a decir que no.
+
+Un estudio mostró que estudiantes que encontraban una moneda antes de llenar una encuesta sobre satisfacción con la vida reportaban niveles mucho más altos de felicidad. Una moneda. Cuando los investigadores les preguntaban si había influenciado sus respuestas, todos negaban indignados.
+
+## Probabilidades y narrativas: cómo nos confundimos
+
+Kahneman también dedica mucho tiempo a hablar sobre cómo juzgamos probabilidades. Los seres humanos somos pésimos para entender las probabilidades.
+
+### La falacia de la conjunción: el caso de Laura
+
+Hay un sesgo que él llama la falacia de la conjunción. Es más fácil de entender con un ejemplo. Te cuento sobre Laura: tiene treinta y un años, es soltera, muy inteligente, se graduó en filosofía. Cuando era estudiante, le preocupaban mucho los temas de discriminación y justicia social, y participaba en manifestaciones antinucleares. Ahora la pregunta: ¿Qué es más probable? Que Laura sea cajera de banco, o que Laura sea cajera de banco y feminista activa.
+
+La mayoría de la gente elige la segunda opción. Pero es imposible que sea correcta. La probabilidad de que Laura sea cajera de banco Y feminista activa no puede ser mayor que la probabilidad de que simplemente sea cajera de banco. Es una regla básica de probabilidad: la conjunción de dos eventos siempre es menos probable que cualquiera de los eventos por separado. Pero la descripción de Laura encaja tan bien con la imagen de una feminista activa que nuestro Sistema 1 hace que la segunda opción parezca más probable, más representativa. Nos dejamos llevar por la narrativa coherente en vez de por la lógica matemática.
+
+## El exceso de confianza: todos pensamos que somos mejores que el promedio
+
+Esto nos lleva a otro concepto clave: el exceso de confianza. Los seres humanos estamos sistemáticamente demasiado seguros de nosotros mismos. En un estudio, el ochenta por ciento de los conductores dijeron que manejaban mejor que el promedio. Obviamente es imposible.
+
+### Los expertos tampoco son inmunes
+
+Este exceso de confianza es particularmente peligroso en los expertos. Kahneman muestra estudio tras estudio demostrando que los expertos financieros no son mejores que el azar para predecir el mercado. Los psicólogos clínicos no son mejores que fórmulas estadísticas simples para diagnosticar pacientes. Pero todos están convencidísimos de que saben lo que hacen.
+
+### La regresión a la media mal interpretada
+
+Kahneman cuenta que daba clases a instructores de vuelo israelíes. Un instructor le contradijo: "Cuando felicito a los pilotos por una maniobra excelente, la próxima vez vuelan peor. Cuando los reto por volar mal, la próxima vez vuelan mejor. El castigo funciona mejor que el elogio". Kahneman se dio cuenta de que había caído en una trampa estadística. Después de un vuelo excepcional, lo más probable es que el próximo sea peor por regresión a la media. Y después de un vuelo pésimo, lo más probable es que el siguiente sea mejor. El instructor confundía esta fluctuación natural con el efecto de sus gritos.
+
+## La teoría prospectiva: por qué las pérdidas duelen más
+
+Ahora bien, uno de los aportes más importantes de Kahneman, por el cual ganó el Nobel, es la teoría prospectiva. Los economistas asumían que la gente toma decisiones racionalmente, maximizando su utilidad esperada. Pero Kahneman demostró que no funciona así. Las personas evalúan las cosas en términos de ganancias y pérdidas respecto a un punto de referencia. Y las pérdidas duelen mucho más que lo que alegran las ganancias.
+
+### La aversión a las pérdidas en acción
+
+Te ofrezco un juego: tiramos una moneda. Si sale cara, ganás ciento cincuenta dólares. Si sale ceca, perdés cien. Matemáticamente es favorable, tu ganancia esperada es de veinticinco dólares. Pero la mayoría rechaza esta apuesta. ¿Por qué? Porque la pérdida de cien dólares duele el doble de lo que alegra ganar ciento cincuenta. Eso es aversión a las pérdidas.
+
+La aversión a las pérdidas explica montones de comportamientos raros. Por ejemplo, la gente que tiene acciones mantiene las que bajaron de precio y vende las que subieron. Lógicamente, deberían hacer lo contrario: vender las que bajaron para cortar pérdidas y mantener las que suben porque están yendo bien. Pero vender una acción que bajó significa cristalizar la pérdida, admitir que te equivocaste. Mientras no vendas, todavía podés decirte a vos mismo que es solo una pérdida en papel, que va a recuperar. Es una forma de negación emocional disfrazada de estrategia de inversión. Este comportamiento irracional le cuesta fortunas a los inversores todos los años, pero es casi imposible de evitar porque está arraigado en cómo funciona nuestro cerebro.
+
+### El efecto dotación: lo mío vale más
+
+Otro efecto fascinante es el efecto dotación. La gente valora más las cosas simplemente porque las posee. En un experimento, le daban a estudiantes una taza de café. Les preguntaban a cuánto la venderían: unos siete dólares. A otro grupo sin la taza les preguntaban cuánto pagarían por ella: tres dólares. La misma taza, pero los que la tenían la valoraban el doble por ser suya.
+
+## Otros sesgos cognitivos importantes
+
+### El sesgo retrospectivo: "yo siempre lo supe"
+
+Kahneman también habla largo y tendido sobre algo que llama el sesgo retrospectivo, o lo que yo llamo el efecto "yo siempre lo supe". Después de que algo pasa, nos convencemos de que era obvio que iba a pasar. Después del colapso de Lehman Brothers en 2008, todo el mundo decía "era obvio que iba a explotar, los indicadores estaban ahí". Pero antes del colapso, casi nadie lo predijo. El problema es que una vez que conocemos el resultado, nuestro cerebro reescribe el pasado para que todo parezca inevitable. Esto nos hace pensar que el mundo es más predecible de lo que realmente es, y que nosotros somos mejores para predecir de lo que realmente somos. Es una ilusión de comprensión que nos da falsa confianza en nuestras habilidades de predicción.
+
+### La cascada de disponibilidad: pánico mediático
+
+Un tema que me parece súper relevante hoy es lo que Kahneman llama la cascada de disponibilidad. Es cuando un tema empieza a circular en los medios, se vuelve más disponible en nuestra mente, nos preocupamos más por ese tema, entonces los medios hablan más de ese tema porque genera clicks, entonces se vuelve aún más disponible, y así en un círculo vicioso. Kahneman pone el ejemplo del miedo a los tiburones después de la película Tiburón. Las probabilidades de que te ataque un tiburón son microscópicas, pero la película hizo que los ataques de tiburones fueran tremendamente disponibles en la mente de la gente. Resultado: pánico colectivo, playas vacías, políticas públicas sobre algo que estadísticamente es irrelevante.
+
+¿No te suena conocido? Pensá en cualquier tema que domina las redes sociales en este momento. Muchas veces la atención que recibe es completamente desproporcionada con su importancia real. Pero una vez que empieza la cascada, es difícil pararla. Los algoritmos de las redes sociales, diseñados para mostrarte más de lo que ya estás viendo, aceleran estas cascadas como nunca antes en la historia. Un tema marginal puede volverse trending topic en horas, creando una sensación de urgencia y relevancia completamente artificial.
+
+### WYSIATI: lo que ves es todo lo que hay
+
+Otro concepto importante es WYSIATI: What You See Is All There Is, Lo Que Ves Es Todo Lo Que Hay. Nuestro Sistema 1 construye historias coherentes con la información disponible, sin preocuparse por lo que falta. Si te cuento que tu vecino gritó en un restaurante y se fue dando un portazo, inmediatamente lo juzgás: es impulsivo, maleducado. No te preguntás qué pasó antes, si lo trataron mal, si recibió una mala noticia. Tu Sistema 1 construye la historia más coherente sin considerar todo lo que no sabe.
+
+Esto es peligroso cuando juzgamos a otras personas. Atribuimos sus acciones a su carácter, no a sus circunstancias. Pero cuando nosotros hacemos algo similar, nos justificamos con las circunstancias.
+
+## La felicidad: experiencia vs. recuerdo
+
+Kahneman también habla sobre la felicidad, y hace una distinción brillante entre dos tipos. Está la felicidad de la experiencia, lo que sentís en el momento, y la felicidad del recuerdo, lo que pensás después sobre esa experiencia. Y no son lo mismo.
+
+### El experimento del agua helada
+
+En un experimento, sumergían la mano de la gente en agua helada. Primera prueba: sesenta segundos. Segunda prueba: sesenta segundos en agua helada más otros treinta en agua ligeramente menos helada. La mayoría prefería repetir la segunda, aunque objetivamente sufrieron más tiempo. ¿Por qué? Porque terminó mejor. El recuerdo era de mejora, de alivio.
+
+### El yo que experimenta vs. el yo que recuerda
+
+Esto tiene implicaciones enormes. Kahneman propone que tenemos dos versiones de nosotros: el yo que experimenta, que vive el presente momento a momento, y el yo que recuerda, que construye la narrativa de nuestra vida. Y el que recuerda es el que toma las decisiones, aunque el que experimenta es el que vive las consecuencias.
+
+### La falacia del costo hundido
+
+Mucha gente sigue en trabajos que odia porque "ya invertí tantos años, no puedo dejarlo ahora". Eso es la falacia del costo hundido. Los años pasados no los podés recuperar. La única pregunta relevante es: ¿quiero estar en este trabajo en el futuro?
+
+### El efecto del pico y el final
+
+Otra idea fascinante es el concepto del pico y el final. Cuando recordamos una experiencia, le damos muchísimo peso al momento más intenso y al final. El resto se diluye. Esto explica por qué un parto horrible puede recordarse positivo si termina con un bebé sano, o por qué una película aburrida se recuerda como buena si el final es espectacular.
+
+En colonoscopias, unos médicos experimentaron dejando el endoscopio adentro unos minutos extra sin moverlo después de terminar. Sin razón médica. Los pacientes que tuvieron esos minutos extra, aunque objetivamente sufrieron más tiempo, recordaban el procedimiento como menos malo y estaban más dispuestos a volver. El final había mejorado su recuerdo.
+
+## Las limitaciones del conocimiento: ni Kahneman es inmune
+
+A lo largo del libro, Kahneman es brutalmente honesto sobre las limitaciones de su trabajo. Admite que conocer todos estos sesgos no te hace inmune a ellos. Él mismo sigue cayendo en las mismas trampas que estudió cincuenta años. El Sistema 1 es demasiado rápido, demasiado automático.
+
+### ¿Para qué sirve entonces este conocimiento?
+
+Entonces, ¿para qué sirve? Kahneman es claro: no sirve mucho para mejorarte a vos mismo. Pero sí sirve para reconocer estos errores en situaciones institucionales, en decisiones grupales, en políticas públicas. Si sabés que los médicos sobreestiman sus diagnósticos, podés diseñar protocolos con listas de verificación. También sirve para entender mejor a los demás. Cuando alguien toma una decisión que te parece irracional, podés pensar "su Sistema 1 está cayendo en tal sesgo".
+
+## El impacto y las críticas
+
+El libro tuvo un impacto masivo desde que salió. Conceptos como Sistema 1 y 2, sesgos cognitivos, heurísticas, son hoy parte del vocabulario común. Influyó desde el marketing hasta la política pública. Varios gobiernos crearon equipos de ciencias del comportamiento usando estos insights para diseñar mejores políticas, como cambiar la presentación de opciones de donación de órganos para aumentar las tasas sin obligar a nadie.
+
+### Las críticas al trabajo de Kahneman
+
+También generó críticas. Algunos argumentan que Kahneman pinta un cuadro demasiado negativo de la racionalidad humana, que muchos "sesgos" son adaptaciones útiles que solo parecen errores en laboratorios diseñados para hacernos fracasar. Otros cuestionan la robustez de algunos efectos tras la crisis de replicación en psicología.
+
+## La gran lección del libro
+
+Pero más allá de las críticas académicas, el libro logró algo difícil: hacer accesible décadas de investigación compleja sin simplificarla hasta volverla inútil. Kahneman no te dice qué pensar, te muestra cómo pensás, con todos tus defectos y limitaciones. Y eso, en última instancia, es liberador. No porque te vaya a convertir en un pensador perfectamente racional, eso es imposible. Sino porque al menos vas a entender por qué tomaste esa decisión idiota que te parecía tan buena idea en el momento.
+
+La gran lección del libro es que nuestro cerebro es una máquina increíble que evolucionó para sobrevivir en la sabana africana, no para entender probabilidades, evaluar riesgos financieros o tomar decisiones óptimas en un mundo complejo. La mayor parte del tiempo hace un trabajo asombroso considerando las limitaciones con las que trabaja. Pero tiene sus puntos ciegos, sus atajos, sus fallas sistemáticas. Y si queremos tomar mejores decisiones, no podemos depender de nuestra fuerza de voluntad o de intentar ser más inteligentes. Tenemos que diseñar sistemas y procesos que compensen esas fallas, porque cambiar nuestra forma básica de pensar es casi imposible.
+
+## Conclusión: conocerse a uno mismo con ciencia moderna
+
+Al final, Kahneman nos está recordando algo que la filosofía antigua ya sabía: conócete a ti mismo. Pero lo hace con el rigor de la ciencia moderna, con experimentos, datos, evidencia. No es filosofía de sillón, es ciencia dura aplicada a la pregunta más humana de todas: ¿por qué hacemos lo que hacemos? Y tal vez esa combinación, humildad antigua con herramientas modernas, sea justamente lo que necesitamos para navegar un mundo que se vuelve cada día más complejo y lleno de decisiones difíciles.
+
+Nota del equipo: Este artículo es un resumen del libro "Pensar Rápido, Pensar Despacio" de Daniel Kahneman. Si te interesó el contenido, te recomendamos ampliamente leer el libro completo. Hay muchísimo más detalle, más experimentos, más matices que no pudimos cubrir acá. El libro es denso pero vale cada página.
