@@ -1,0 +1,8 @@
+.DS_Store
+.claude/
+contentful-sync/.env
+.env
+.env.local
+.env.contentful
+*.mp4
+*raw*.mp3
