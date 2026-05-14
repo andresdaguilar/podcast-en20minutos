@@ -6,3 +6,5 @@ contentful-sync/.env
 .env.contentful
 *.mp4
 *raw*.mp3
+# GarageBand template WAVs exceed GitHub's 100MB per-file limit
+Filosofia/000 Resources/Template.band/Media/Audio Files/*.wav
