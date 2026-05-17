@@ -134,4 +134,4 @@ Y la pregunta que nos deja es: ¿podemos recuperar algo de libertad real en este
 
 Conclusión
 
-Bueno, hasta acá llegamos por hoy. La próxima vez que alguien te diga "tenés que ser más positivo" o "todo depende de vos", acordate de Byung-Chul Han y su advertencia sobre la violencia de la positividad. A veces, el problema no sos vos. A veces, el problema es el sistema que te hace creer que todo es tu responsabilidad individual. Y reconocer eso, bueno, eso es el primer paso para algo parecido a la libertad real.
+La próxima vez que alguien te diga "tenés que ser más positivo" o "todo depende de vos", acordate de Byung-Chul Han y su advertencia sobre la violencia de la positividad. A veces, el problema no sos vos. A veces, el problema es el sistema que te hace creer que todo es tu responsabilidad individual. Y reconocer eso, bueno, eso es el primer paso para algo parecido a la libertad real.

@@ -135,5 +135,3 @@ La pregunta que la Escuela de Frankfurt nos deja no es "¿es malo el entretenimi
 No es una condena del placer o del entretenimiento. Es una invitación a la conciencia crítica. Que es, en el fondo, lo que siempre fue la filosofía.
 
 Un grupo de intelectuales que huían del nazismo y terminaron en Los Ángeles escribieron, rodeados de palmeras y estudios de cine, algunas de las páginas más lúcidas sobre los mecanismos de control cultural del capitalismo. El contexto era irónico. El resultado fue una herramienta de pensamiento que se vuelve más útil, no menos, con cada año que pasa.
-
-Si este artículo te hizo pensar de manera diferente la próxima vez que te pongas a scrollear, o la próxima vez que te preguntes qué estás viendo y por qué, entonces cumplió su propósito. La semana que viene vamos a hablar de Spinoza, el filósofo que fue expulsado de su comunidad, que le cambió la cara a Dios y que, según Einstein, era el único filósofo que valía la pena leer. Nos vemos ahí.

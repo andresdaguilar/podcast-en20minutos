@@ -159,5 +159,3 @@ Y está la dimensión ecológica, que quizás sorprenda. Si Dios y la naturaleza
 El joven expulsado de su comunidad en 1656 no renunció a nada. Siguió pensando, siguió escribiendo, siguió haciendo las preguntas que incomodaban. Murió pobre y marginado. Y dejó un sistema filosófico que sigue siendo, cuatro siglos después, uno de los más radicalmente coherentes y más necesarios de leer.
 
 Spinoza no intentó hacer a Dios más pequeño para que cupiese en las categorías humanas. Intentó hacer las categorías humanas lo suficientemente grandes para estar a la altura de lo que existe. Eso es, quizás, la mayor ambición que puede tener un filósofo.
-
-Si este artículo te dejó con más preguntas que respuestas, estamos en el buen camino. Suscribite al podcast para seguir recibiendo estos episodios cada semana, y pasate por el blog donde podés seguir explorando estos temas con más tiempo y más detalle. Gracias por leer, gracias por pensar, y Hasta una próxima pronto.

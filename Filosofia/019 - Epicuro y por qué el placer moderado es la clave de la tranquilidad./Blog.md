@@ -6,8 +6,6 @@ El problema es que Epicuro vivía en una casa modesta en Atenas con un jardín, 
 
 Entonces, ¿cómo pasó esto? ¿Cómo el filósofo del placer moderado se convirtió en el ícono del exceso? Eso es lo que vamos a explorar hoy. Y te adelanto que la respuesta tiene que ver con política, con la Iglesia, y con algo que los humanos hacemos muy bien: tergiversar las ideas de otros para que nos convengan.
 
-Bienvenidos al podcast. Hoy nos metemos de lleno en Epicuro.
-
 ## Quién era este tipo
 
 Epicuro nació en el año 341 antes de nuestra era en Samos, una isla griega frente a la costa de lo que hoy es Turquía. Su familia era de origen ateniense pero vivía en una colonia, así que desde chico tuvo esa sensación de estar entre dos mundos. A los dieciocho años se fue a Atenas a hacer el servicio militar, como era obligatorio para los ciudadanos, y ahí empezó a frecuentar las escuelas filosóficas que pululaban por la ciudad.
@@ -107,7 +105,3 @@ Epicuro no era lo que te contaron. No era el apóstol del exceso ni el defensor 
 Es una filosofía que, dos mil trescientos años después, sigue siendo irritantemente pertinente. Sobre todo en este momento histórico en el que la industria del entretenimiento, el consumo y las redes sociales compiten por tu atención con herramientas de persuasión que los filósofos griegos ni imaginaban.
 
 La próxima vez que alguien te diga que vas a ser feliz cuando tengas más, cuando llegues a cierto nivel, cuando te puedas dar determinados gustos, acordate de Epicuro y su trocito de queso. No como una lección moral aburrida ni como un llamado al sacrificio. Sino como una pregunta genuina y honesta: ¿qué es lo que realmente necesitás para estar bien? Porque la respuesta, si la pensás en serio, probablemente sea mucho más simple y más accesible de lo que el mundo a tu alrededor quiere que creas.
-
-Si este artículo te hizo pensar, compartilo con alguien a quien le pueda servir. Podés seguir el texto en todas las plataformas, y si querés profundizar en estos temas, pasate por el blog donde encontrás artículos, referencias y material extra sobre todos los filósofos que exploramos en cada episodio. La semana que viene seguimos con más ideas que llevan siglos esperando ser parte de tu conversación cotidiana.
-
-Hasta la próxima.

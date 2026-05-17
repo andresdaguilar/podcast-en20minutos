@@ -4,8 +4,6 @@ Regine se casó con otro hombre. Kierkegaard nunca lo superó. Cuando murió, a 
 
 Es una historia de amor triste y también, si la pensamos bien, una historia sobre la angustia de elegir. Sobre lo que pasa cuando tenés que tomar una decisión importante sabiendo que cualquier camino implica perder algo irreemplazable. Sobre la soledad radical de ser el único que puede elegir por vos mismo.
 
-Bienvenidos al podcast. Aquí recorremos Kierkegaard.
-
 ---
 
 ## **El hombre detrás del filósofo**
@@ -121,6 +119,3 @@ El salto de fe no es solo un concepto religioso. Es una descripción de algo que
 Y lo más honesto de Kierkegaard es que no pretende que ese paso sea fácil ni que elimine la angustia. La angustia no desaparece. Sigue ahí porque la libertad sigue ahí. Pero la diferencia entre quien la atraviesa y quien huye de ella es la diferencia entre vivir auténticamente y vivir de prestado, en los moldes que otros prepararon.
 
 Eso era lo que Kierkegaard entendía que había hecho esa tarde de agosto de 1841 cuando le devolvió el anillo a Regine. Un salto hacia lo que él creía su misión, sabiendo que implicaba perder algo que amaba. No era una decisión que pudiera justificarse completamente. Pero era suya. Y eso, para él, era lo más importante.
-
-
-Hasta la próxima.

@@ -148,6 +148,4 @@ No es una pregunta cómoda. Muchas veces la respuesta nos obliga a cambiar de ru
 
 El tipo que regulaba los relojes de Königsberg con su puntualidad estaba, en su manera, ejerciendo esa libertad. No porque sus rutinas fueran intrínsecamente morales, sino porque había pensado profundamente qué era vivir bien y actuaba en consecuencia. Con convicción, con coherencia, con la seriedad de alguien que sabe que las reglas que se da a sí mismo importan.
 
-Eso es todo por este artículo de hoy. Si te quedaste pensando, si algo te generó ruido o te abrió una pregunta, eso es exactamente lo que la filosofía tiene que hacer. Te invito a que te suscribas al podcast para que no te pierdas el próximo episodio, y si querés seguir leyendo sobre estos temas, pasate por el blog donde vas a encontrar artículos que amplían todo lo que hablamos acá.
-
-La semana que viene vamos a hablar de Aristóteles y su idea de la felicidad, que es bastante más extraña y más interesante de lo que la mayoría imagina. Te espero.
+Eso es todo por este artículo de hoy. Si te quedaste pensando, si algo te generó ruido o te abrió una pregunta, eso es exactamente lo que la filosofía tiene que hacer.

@@ -4,8 +4,6 @@ Ese hombre era Epicteto. Y en ese momento, que puede parecernos de una frialdad 
 
 Lo que el amo podía hacer era romperle la pierna. Eso no dependía de Epicteto. Lo que sí dependía de Epicteto era su respuesta interior, su actitud, su capacidad de no derrumbarse ante el dolor. Y eso, decía, era lo único que importaba realmente.
 
-Bienvenidos al podcast. Aquí recorremos Epicteto, el esclavo que se convirtió en uno de los filósofos más influyentes de la historia occidental.
-
 ---
 
 ## **Un esclavo filósofo**
@@ -131,7 +129,3 @@ Y hay algo en esa democracia radical de la filosofía estoica que sigue resonand
 La libertad que importa no es la que te dan las circunstancias. Es la que construís con tus juicios, tus respuestas y tu elección de dónde poner la atención. Esa es la libertad que nadie te puede quitar. No el amo que te rompe la pierna, no el jefe que te grita, no la situación que sale mal.
 
 Epicteto lo aprendió de la manera más dura posible. Por suerte, nosotros podemos aprender la versión conceptual sin necesidad de pasar por lo mismo.
-
-Si este artículo te fue útil o te hizo pensar, compartilo con alguien que lo pueda aprovechar. Seguí el texto en todas las plataformas de audio y visitá el blog donde encontrás referencias, artículos y material complementario sobre todos los filósofos que exploramos. La semana que viene, más filosofía que te interpela directamente.
-
-Hasta la próxima.

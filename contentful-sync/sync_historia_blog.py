@@ -407,15 +407,31 @@ def blog_titulo(md: str) -> str:
 
 
 def main() -> None:
+    import argparse
+
     load_dotenv()
+    parser = argparse.ArgumentParser(description="Sync Historia blogs a Contentful")
+    parser.add_argument(
+        "--episode",
+        type=int,
+        action="append",
+        metavar="N",
+        help="Solo estos números de episodio (repetible, ej. --episode 23)",
+    )
+    args = parser.parse_args()
+
     token = os.environ.get("CONTENTFUL_MANAGEMENT_TOKEN", "").strip()
     if not token:
         print("Definí CONTENTFUL_MANAGEMENT_TOKEN o contentful-sync/.env", file=sys.stderr)
         sys.exit(1)
 
     dates = load_publish_dates()
+    episodes = EPISODES
+    if args.episode:
+        wanted = set(args.episode)
+        episodes = [e for e in EPISODES if e[0] in wanted]
 
-    for num, folder, slug in EPISODES:
+    for num, folder, slug in episodes:
         blog_path = HISTORIA / folder / "Blog.md"
         if not blog_path.is_file():
             print(f"[skip {num}] No Blog.md: {folder}")

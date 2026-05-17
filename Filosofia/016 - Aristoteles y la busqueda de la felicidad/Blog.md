@@ -149,5 +149,3 @@ No es una pregunta que incomoda porque sea cruel. Incomoda porque nos saca de la
 El hombre que estudiaba pulpos en los jardines del Liceo mientras su ex alumno conquistaba el mundo tenía, quizás, una forma de sabiduría que Alejandro, con todo su poder, no tenía. Sabía que la grandeza verdadera no se mide en territorios conquistados sino en el grado en que uno ha realizado lo mejor de lo que puede ser.
 
 Eso es la eudaimonía. Eso es lo que Aristóteles tiene para decirte hoy, dos mil cuatrocientos años después.
-
-Si este artículo te hizo pensar, si abrió alguna pregunta que se te quedó dando vueltas, ese es el mejor resultado posible.. La semana que viene vamos a hablar de algo muy diferente: la Escuela de Frankfurt y por qué un grupo de filósofos del siglo veinte creía que la televisión, la radio y el cine nos estaban volviendo cada vez menos libres. Es más actual de lo que suena.

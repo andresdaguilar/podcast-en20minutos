@@ -88,4 +88,4 @@ La paradoja de la tolerancia no es una contradicción que se puede resolver de u
 
 ¿Somos capaces de defender la tolerancia sin convertirnos en lo que combatimos? No hay respuesta fácil. Pero saber que la pregunta existe, y entender por qué existe, ya es un primer paso enorme.
 
-Bueno, eso fue todo por hoy. Si este artículo te hizo pensar, si te generó dudas o ganas de discutir, ese es exactamente el objetivo. La filosofía no sirve para darte respuestas definitivas. Sirve para afinar las preguntas. Y las preguntas que plantea Popper son de las más importantes que podemos hacernos hoy.
+Si este artículo te hizo pensar, si te generó dudas o ganas de discutir, ese es exactamente el objetivo. La filosofía no sirve para darte respuestas definitivas. Sirve para afinar las preguntas. Y las preguntas que plantea Popper son de las más importantes que podemos hacernos hoy.

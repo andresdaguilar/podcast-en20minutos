@@ -574,7 +574,7 @@
         "enhanced": true,
         "complete": true
       },
-      "hasVideo": true
+      "hasVideo": false
     },
     {
       "number": 25,
@@ -1572,7 +1572,7 @@
         "enhanced": true,
         "complete": true
       },
-      "hasVideo": true
+      "hasVideo": false
     },
     {
       "number": 25,
@@ -2462,7 +2462,7 @@
         "enhanced": true,
         "complete": true
       },
-      "hasVideo": true
+      "hasVideo": false
     },
     {
       "number": 25,
@@ -2482,7 +2482,7 @@
         "youtube": true
       },
       "audio": {
-        "raw": false,
+        "raw": true,
         "enhanced": false,
         "complete": false
       },
@@ -3760,7 +3760,7 @@
         "enhanced": true,
         "complete": true
       },
-      "hasVideo": true
+      "hasVideo": false
     },
     {
       "number": 25,
@@ -3780,7 +3780,7 @@
         "youtube": false
       },
       "audio": {
-        "raw": false,
+        "raw": true,
         "enhanced": false,
         "complete": false
       },

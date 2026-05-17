@@ -6,8 +6,6 @@ El hombre era Heráclito de Éfeso. Y si esa muerte te parece coherente con algu
 
 Pero más allá de la anécdota —que puede ser apócrifa, es decir, inventada o exagerada por la tradición— Heráclito fue el filósofo que cambió para siempre cómo pensamos el cambio. El que dijo que el río en el que te metés nunca es el mismo río dos veces. El que afirmó que el mundo no es una cosa sino un proceso. El que vio el conflicto y la contradicción no como problemas a resolver sino como la estructura misma de la realidad. Y si eso suena abstracto ahora, no te preocupés: para cuando terminemos este artículo va a tener mucho sentido y vas a reconocer sus ideas en un montón de lugares donde nunca pensaste verlas.
 
-Bienvenidos al podcast. Aquí recorremos Heráclito, el filósofo que entendió que todo fluye y nada permanece.
-
 ## El contexto: Éfeso y los primeros filósofos
 
 Para entender a Heráclito, hay que situarlo en su contexto. Éfeso era una ciudad griega importante en la costa de lo que hoy es Turquía occidental. Una ciudad cosmopolita, rica, con conexiones comerciales con Persia, Egipto y el mundo mediterráneo entero. Un lugar donde las ideas circulaban junto con las mercancías.
@@ -123,5 +121,3 @@ Heráclito es difícil. Sus textos son difíciles, su carácter era difícil, y 
 Pero hay algo en esa dificultad que vale la pena. Porque si algo nos enseña Heráclito es que la resistencia al cambio no es solo inútil: es una forma de no ver la realidad como es. El río sigue fluyendo independientemente de que vos quieras que se quede quieto. La pregunta es si aprendés a moverte con él o te quedás parado en la orilla mirando el agua que ya pasó.
 
 En este artículo de Tales ya mencionamos cómo los primeros filósofos griegos se preguntaron de qué está hecho el universo. Heráclito da un paso más y pregunta cómo funciona. Y su respuesta —que funciona a través del conflicto, el cambio y la tensión de los opuestos— resultó ser una de las intuiciones más fértiles de toda la historia del pensamiento occidental.
-
-Hasta la próxima.

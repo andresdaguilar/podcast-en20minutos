@@ -103,5 +103,3 @@ Foucault te enseña a ser genealogista de tu propia vida. A preguntarte: ¿por q
 El Panóptico está en todos lados hoy. En tu teléfono, en tu trabajo, en las redes sociales donde performás tu identidad para una audiencia invisible. Pero saber que está ahí, entender cómo funciona, ya es un primer paso. No para escapar (no hay afuera del poder), sino para relacionarte con él de otra manera. Para ser menos dócil, menos previsible, menos útil para quienes te quieren controlar.
 
 Y bueno, acá termina este viaje por uno de los libros más importantes del siglo veinte. Si te quedaste hasta acá, si llegaste a bancar tres mil palabras sobre prisiones, disciplina y poder, es porque algo de esto te resonó. Y eso está bueno. Significa que ya estás pensando distinto.
-
-Si te gustó este episodio, acordate de suscribirte al podcast. Cada semana subimos un nuevo capítulo explorando ideas que cambiaron la forma en que entendemos el mundo. La filosofía no es solo para académicos encerrados en universidades. Es para cualquiera que se haga preguntas sobre cómo vivimos y cómo podríamos vivir mejor.

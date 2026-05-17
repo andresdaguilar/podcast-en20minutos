@@ -582,6 +582,13 @@ def main() -> None:
         metavar="N-M",
         help="Solo Mitología: episodios N a M inclusive (ej. 6-24). Categoría Contentful: Mitologia",
     )
+    parser.add_argument(
+        "--episode",
+        type=int,
+        action="append",
+        metavar="N",
+        help="Solo estos números (repetible, ej. --episode 23)",
+    )
     args = parser.parse_args()
 
     token = os.environ.get("CONTENTFUL_MANAGEMENT_TOKEN", "").strip()
@@ -605,10 +612,15 @@ def main() -> None:
 
     fil = load_series_episodes(data, "filosofia")
     lib = load_series_episodes(data, "libros")
+    wanted = set(args.episode) if args.episode else None
 
     for num in sorted(fil):
+        if wanted is not None and num not in wanted:
+            continue
         process_one(token, "filosofia", "Filosofía", num, fil[num])
     for num in sorted(lib):
+        if wanted is not None and num not in wanted:
+            continue
         process_one(token, "libros", "Libros", num, lib[num])
 
     print("Listo (Filosofía + Libros, todos los episodios con datos completos).")

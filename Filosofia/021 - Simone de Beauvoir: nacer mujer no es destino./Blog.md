@@ -92,5 +92,3 @@ En uno de sus textos más personales escribió algo que voy a citar porque es de
 Eso es, en el fondo, lo que propone Beauvoir. No el cinismo. No la resignación. No la aceptación pasiva de las condiciones en que llegaste al mundo. Sino la apuesta activa, permanente, consciente, de hacerse cargo de tu propia vida.
 
 Nacer mujer no es un destino. Nacer en ninguna condición es un destino. La condición de llegada no determina la condición de arribo. Ese es el núcleo del pensamiento beauvoiriano. Y es también, creo yo, uno de los mensajes filosóficos más liberadores y más difíciles de la historia del pensamiento humano.
-
-Hasta acá llegamos con Simone de Beauvoir. La semana que viene, episodio 22, vamos a hablar de alguien que vivió atormentado por exactamente esa pregunta: ¿qué elijo? ¿Cómo elijo? ¿Cómo se soporta la angustia de tener que elegir sin garantías? Vamos a hablar de Søren Kierkegaard, el filósofo danés que inventó la angustia moderna y le dio nombre. Hasta la próxima.
